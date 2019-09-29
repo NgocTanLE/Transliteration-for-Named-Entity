@@ -9,11 +9,11 @@ ACL 2018 >> Named Entity Workshop datasets : http://workshop.colips.org/news2018
 ![alt text](./image/Tallip_Diag_System.png)
 
 ### Tools to use
-..* m-2-m aligner (Jiampojamarn et al., 2007) : https://github.com/letter-to-phoneme/m2m-aligner/ <br />
-..* word2vec (Mikolov et al., 2013) : https://code.google.com/archive/p/word2vec/ <br />
-..* nmt-keras (Peris, 2017) to train a neural network machine translittération, https://github.com/lvapeab/nmt-keras/ <br />
-..* Sequitur-G2P (Bisani et Ney, 2008) : https://www-i6.informatik.rwth-aachen.de/web/Software/g2p.html <br />
-..* Moses (Koehn, 2009) : http://www.statmt.org/moses_steps.html 
+* m-2-m aligner (Jiampojamarn et al., 2007) : https://github.com/letter-to-phoneme/m2m-aligner/ <br />
+* word2vec (Mikolov et al., 2013) : https://code.google.com/archive/p/word2vec/ <br />
+* nmt-keras (Peris, 2017) to train a neural network machine translittération, https://github.com/lvapeab/nmt-keras/ <br />
+* Sequitur-G2P (Bisani et Ney, 2008) : https://www-i6.informatik.rwth-aachen.de/web/Software/g2p.html <br />
+* Moses (Koehn, 2009) : http://www.statmt.org/moses_steps.html 
 
 ### Cite our Papers
 Ngoc Tan Le, Fatiha Sadat, Lucie Ménard, Dien Dinh. Low Resource Machine Transliteration Using Recurrent Neural Network. In Proceedings of ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), ISSN 2375-4699, Inf. Process. 18(2): 13:1-13:14 (2019).
