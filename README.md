@@ -3,10 +3,17 @@ Build a Neural Network Model for Low Resource Machine Transliteration
 
 ### Datasets Files format
 French-Vietnamese Bilingual dictionary 
+ACL 2018 >> Named Entity Workshop datasets : http://workshop.colips.org/news2018/dataset.html
 
-
-### Train a new Model with all features
+### Architecture of our machine transliteration
 ![alt text](./image/Tallip_Diag_System.png)
+
+### Tools to use
+m-2-m aligner (Jiampojamarn et al., 2007) : https://github.com/letter-to-phoneme/m2m-aligner/
+word2vec (Mikolov et al., 2013) : https://code.google.com/archive/p/word2vec/
+nmt-keras (Peris, 2017) to train a neural network machine translittération, https://github.com/lvapeab/nmt-keras/
+Sequitur-G2P : https://www-i6.informatik.rwth-aachen.de/web/Software/g2p.html
+Moses (Koehn, 2009) : http://www.statmt.org/moses_steps.html
 
 ### Cite our Papers
 Ngoc Tan Le, Fatiha Sadat, Lucie Ménard, Dien Dinh. Low Resource Machine Transliteration Using Recurrent Neural Network. In Proceedings of ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), ISSN 2375-4699, Inf. Process. 18(2): 13:1-13:14 (2019).
