@@ -5,9 +5,8 @@ Build a Neural Network Model for Low Resource Machine Transliteration
 French-Vietnamese Bilingual dictionary 
 
 
-
 ### Train a new Model with all features
-
+![alt text](./image/Tallip_Diag_System.png)
 
 ### Cite our Papers
 Ngoc Tan Le, Fatiha Sadat, Lucie Ménard, Dien Dinh. Low Resource Machine Transliteration Using Recurrent Neural Network. In Proceedings of ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), ISSN 2375-4699, Inf. Process. 18(2): 13:1-13:14 (2019).
