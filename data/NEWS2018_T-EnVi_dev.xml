@@ -1,0 +1,2003 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TransliterationCorpus CorpusFormat="UTF-8" CorpusID="T-EnVi" CorpusSize="500" CorpusType="Development" NameSource="Western" SourceLang="English" TargetLang="Vietnamese">
+	<Name ID="1">
+		<SourceName>abe</SourceName>
+		<TargetName ID="1">a bê</TargetName>
+	</Name>
+	<Name ID="2">
+		<SourceName>abebe</SourceName>
+		<TargetName ID="1">a bê bê</TargetName>
+	</Name>
+	<Name ID="3">
+		<SourceName>achenwall</SourceName>
+		<TargetName ID="1">a ken quan</TargetName>
+	</Name>
+	<Name ID="4">
+		<SourceName>acropole</SourceName>
+		<TargetName ID="1">ác rô bôn</TargetName>
+	</Name>
+	<Name ID="5">
+		<SourceName>ady</SourceName>
+		<TargetName ID="1">a đi</TargetName>
+	</Name>
+	<Name ID="6">
+		<SourceName>adzarija</SourceName>
+		<TargetName ID="1">át gia ri</TargetName>
+	</Name>
+	<Name ID="7">
+		<SourceName>agana</SourceName>
+		<TargetName ID="1">a ga na</TargetName>
+	</Name>
+	<Name ID="8">
+		<SourceName>agostino</SourceName>
+		<TargetName ID="1">a gô xờ ti nô</TargetName>
+	</Name>
+	<Name ID="9">
+		<SourceName>aidit</SourceName>
+		<TargetName ID="1">ai đít</TargetName>
+	</Name>
+	<Name ID="10">
+		<SourceName>aiken</SourceName>
+		<TargetName ID="1">ai cơn</TargetName>
+	</Name>
+	<Name ID="11">
+		<SourceName>ajaccio</SourceName>
+		<TargetName ID="1">a gia xi ô</TargetName>
+	</Name>
+	<Name ID="12">
+		<SourceName>akmolinsk</SourceName>
+		<TargetName ID="1">ác mô lin sờ cơ</TargetName>
+	</Name>
+	<Name ID="13">
+		<SourceName>aleksandrovich</SourceName>
+		<TargetName ID="1">a léch xăng đờ rô vích</TargetName>
+	</Name>
+	<Name ID="14">
+		<SourceName>alighieri</SourceName>
+		<TargetName ID="1">a li ghi ê ri</TargetName>
+	</Name>
+	<Name ID="15">
+		<SourceName>altaj</SourceName>
+		<TargetName ID="1">an tai</TargetName>
+	</Name>
+	<Name ID="16">
+		<SourceName>amadora</SourceName>
+		<TargetName ID="1">a ma đô ra</TargetName>
+	</Name>
+	<Name ID="17">
+		<SourceName>anaimalai</SourceName>
+		<TargetName ID="1">a nai ma lai</TargetName>
+	</Name>
+	<Name ID="18">
+		<SourceName>andes</SourceName>
+		<TargetName ID="1">an đét sờ</TargetName>
+	</Name>
+	<Name ID="19">
+		<SourceName>andijan</SourceName>
+		<TargetName ID="1">an đi gian</TargetName>
+	</Name>
+	<Name ID="20">
+		<SourceName>andorra</SourceName>
+		<TargetName ID="1">an đô ra</TargetName>
+	</Name>
+	<Name ID="21">
+		<SourceName>anne</SourceName>
+		<TargetName ID="1">an nơ</TargetName>
+	</Name>
+	<Name ID="22">
+		<SourceName>anosov</SourceName>
+		<TargetName ID="1">a nô xốp</TargetName>
+	</Name>
+	<Name ID="23">
+		<SourceName>antakya</SourceName>
+		<TargetName ID="1">an ta ki a</TargetName>
+	</Name>
+	<Name ID="24">
+		<SourceName>antananarive</SourceName>
+		<TargetName ID="1">an ta na na ri vơ</TargetName>
+	</Name>
+	<Name ID="25">
+		<SourceName>antwerpen</SourceName>
+		<TargetName ID="1">an vơ ben</TargetName>
+	</Name>
+	<Name ID="26">
+		<SourceName>anuchin</SourceName>
+		<TargetName ID="1">a nu chin</TargetName>
+	</Name>
+	<Name ID="27">
+		<SourceName>apsara</SourceName>
+		<TargetName ID="1">áp xa ra</TargetName>
+	</Name>
+	<Name ID="28">
+		<SourceName>apure</SourceName>
+		<TargetName ID="1">a bu rê</TargetName>
+	</Name>
+	<Name ID="29">
+		<SourceName>aquaba</SourceName>
+		<TargetName ID="1">a qua ba</TargetName>
+	</Name>
+	<Name ID="30">
+		<SourceName>archipenko</SourceName>
+		<TargetName ID="1">ác si ben cô</TargetName>
+	</Name>
+	<Name ID="31">
+		<SourceName>areios</SourceName>
+		<TargetName ID="1">a rây ốt</TargetName>
+	</Name>
+	<Name ID="32">
+		<SourceName>arfwedson</SourceName>
+		<TargetName ID="1">áp vét sơn</TargetName>
+	</Name>
+	<Name ID="33">
+		<SourceName>argovie</SourceName>
+		<TargetName ID="1">ác go vi</TargetName>
+	</Name>
+	<Name ID="34">
+		<SourceName>armoricain</SourceName>
+		<TargetName ID="1">ác mô ri can</TargetName>
+	</Name>
+	<Name ID="35">
+		<SourceName>armory</SourceName>
+		<TargetName ID="1">a mo ri</TargetName>
+	</Name>
+	<Name ID="36">
+		<SourceName>armstrong</SourceName>
+		<TargetName ID="1">am sờ trong</TargetName>
+	</Name>
+	<Name ID="37">
+		<SourceName>artaud</SourceName>
+		<TargetName ID="1">ác tô</TargetName>
+	</Name>
+	<Name ID="38">
+		<SourceName>asahi</SourceName>
+		<TargetName ID="1">a sa hi</TargetName>
+	</Name>
+	<Name ID="39">
+		<SourceName>ashoka</SourceName>
+		<TargetName ID="1">a xô ka</TargetName>
+	</Name>
+	<Name ID="40">
+		<SourceName>assourbanipal</SourceName>
+		<TargetName ID="1">a xua ban ni ban</TargetName>
+	</Name>
+	<Name ID="41">
+		<SourceName>athenaeum</SourceName>
+		<TargetName ID="1">a tê nê um</TargetName>
+	</Name>
+	<Name ID="42">
+		<SourceName>attlee</SourceName>
+		<TargetName ID="1">át li</TargetName>
+	</Name>
+	<Name ID="43">
+		<SourceName>az</SourceName>
+		<TargetName ID="1">a giơ</TargetName>
+	</Name>
+	<Name ID="44">
+		<SourceName>azande</SourceName>
+		<TargetName ID="1">a gian đơ</TargetName>
+	</Name>
+	<Name ID="45">
+		<SourceName>aziz</SourceName>
+		<TargetName ID="1">a gít</TargetName>
+	</Name>
+	<Name ID="46">
+		<SourceName>azov</SourceName>
+		<TargetName ID="1">a giốp</TargetName>
+	</Name>
+	<Name ID="47">
+		<SourceName>babenberg</SourceName>
+		<TargetName ID="1">ba ben bớt</TargetName>
+	</Name>
+	<Name ID="48">
+		<SourceName>babeuf</SourceName>
+		<TargetName ID="1">ba bớp</TargetName>
+	</Name>
+	<Name ID="49">
+		<SourceName>baden</SourceName>
+		<TargetName ID="1">ba đen</TargetName>
+	</Name>
+	<Name ID="50">
+		<SourceName>bajkonur</SourceName>
+		<TargetName ID="1">bai cô nua</TargetName>
+	</Name>
+	<Name ID="51">
+		<SourceName>bakhtin</SourceName>
+		<TargetName ID="1">ba khơ tin</TargetName>
+	</Name>
+	<Name ID="52">
+		<SourceName>bakony</SourceName>
+		<TargetName ID="1">ba cô ni</TargetName>
+	</Name>
+	<Name ID="53">
+		<SourceName>baleares</SourceName>
+		<TargetName ID="1">ba lê a rét</TargetName>
+	</Name>
+	<Name ID="54">
+		<SourceName>ball</SourceName>
+		<TargetName ID="1">bon</TargetName>
+	</Name>
+	<Name ID="55">
+		<SourceName>barbuda</SourceName>
+		<TargetName ID="1">bác bu đa</TargetName>
+	</Name>
+	<Name ID="56">
+		<SourceName>barclay</SourceName>
+		<TargetName ID="1">ba cờ lay</TargetName>
+	</Name>
+	<Name ID="57">
+		<SourceName>bardeen</SourceName>
+		<TargetName ID="1">ba đin</TargetName>
+	</Name>
+	<Name ID="58">
+		<SourceName>barnard</SourceName>
+		<TargetName ID="1">ba nớt</TargetName>
+	</Name>
+	<Name ID="59">
+		<SourceName>barrou</SourceName>
+		<TargetName ID="1">ba ru</TargetName>
+	</Name>
+	<Name ID="60">
+		<SourceName>barton</SourceName>
+		<TargetName ID="1">ba tơn</TargetName>
+	</Name>
+	<Name ID="61">
+		<SourceName>bauhaus</SourceName>
+		<TargetName ID="1">bao hao</TargetName>
+	</Name>
+	<Name ID="62">
+		<SourceName>bayle</SourceName>
+		<TargetName ID="1">bây lơ</TargetName>
+	</Name>
+	<Name ID="63">
+		<SourceName>beer</SourceName>
+		<TargetName ID="1">bê ơ</TargetName>
+	</Name>
+	<Name ID="64">
+		<SourceName>belmopan</SourceName>
+		<TargetName ID="1">ben mô ban</TargetName>
+	</Name>
+	<Name ID="65">
+		<SourceName>belomorsk</SourceName>
+		<TargetName ID="1">bê lô mót xờ cơ</TargetName>
+	</Name>
+	<Name ID="66">
+		<SourceName>berdjansk</SourceName>
+		<TargetName ID="1">béc đi an sờ cơ</TargetName>
+	</Name>
+	<Name ID="67">
+		<SourceName>bergamo</SourceName>
+		<TargetName ID="1">béc ga mô</TargetName>
+	</Name>
+	<Name ID="68">
+		<SourceName>bergen</SourceName>
+		<TargetName ID="1">bét ghen</TargetName>
+	</Name>
+	<Name ID="69">
+		<SourceName>berne</SourceName>
+		<TargetName ID="1">béc nơ</TargetName>
+	</Name>
+	<Name ID="70">
+		<SourceName>berque</SourceName>
+		<TargetName ID="1">béc cơ</TargetName>
+	</Name>
+	<Name ID="71">
+		<SourceName>bessmernyh</SourceName>
+		<TargetName ID="1">bét sờ mơ ni</TargetName>
+	</Name>
+	<Name ID="72">
+		<SourceName>bethe</SourceName>
+		<TargetName ID="1">bê thơ</TargetName>
+	</Name>
+	<Name ID="73">
+		<SourceName>beuve</SourceName>
+		<TargetName ID="1">bu vơ</TargetName>
+	</Name>
+	<Name ID="74">
+		<SourceName>bidault</SourceName>
+		<TargetName ID="1">bi đô</TargetName>
+	</Name>
+	<Name ID="75">
+		<SourceName>blake</SourceName>
+		<TargetName ID="1">bờ lây cơ</TargetName>
+	</Name>
+	<Name ID="76">
+		<SourceName>blasco</SourceName>
+		<TargetName ID="1">bờ la xờ cô</TargetName>
+	</Name>
+	<Name ID="77">
+		<SourceName>bloemfontein</SourceName>
+		<TargetName ID="1">bờ lum phơn tên</TargetName>
+	</Name>
+	<Name ID="78">
+		<SourceName>blum</SourceName>
+		<TargetName ID="1">bờ lum</TargetName>
+	</Name>
+	<Name ID="79">
+		<SourceName>bogardus</SourceName>
+		<TargetName ID="1">bô ga đớt</TargetName>
+	</Name>
+	<Name ID="80">
+		<SourceName>bollaert</SourceName>
+		<TargetName ID="1">bô la ớt</TargetName>
+	</Name>
+	<Name ID="81">
+		<SourceName>bologne</SourceName>
+		<TargetName ID="1">bô lô nhơ</TargetName>
+	</Name>
+	<Name ID="82">
+		<SourceName>bondone</SourceName>
+		<TargetName ID="1">bôn đô nê</TargetName>
+	</Name>
+	<Name ID="83">
+		<SourceName>bonriki</SourceName>
+		<TargetName ID="1">bôn ri ki</TargetName>
+	</Name>
+	<Name ID="84">
+		<SourceName>born</SourceName>
+		<TargetName ID="1">bon</TargetName>
+	</Name>
+	<Name ID="85">
+		<SourceName>botta</SourceName>
+		<TargetName ID="1">bô ta</TargetName>
+	</Name>
+	<Name ID="86">
+		<SourceName>boulder</SourceName>
+		<TargetName ID="1">bun đơ</TargetName>
+	</Name>
+	<Name ID="87">
+		<SourceName>bourbon</SourceName>
+		<TargetName ID="1">buốc bôn</TargetName>
+	</Name>
+	<Name ID="88">
+		<SourceName>brahma</SourceName>
+		<TargetName ID="1">bờ ra ma</TargetName>
+	</Name>
+	<Name ID="89">
+		<SourceName>bramante</SourceName>
+		<TargetName ID="1">bờ ra man tê</TargetName>
+	</Name>
+	<Name ID="90">
+		<SourceName>brescia</SourceName>
+		<TargetName ID="1">bờ rê xi a</TargetName>
+	</Name>
+	<Name ID="91">
+		<SourceName>brest</SourceName>
+		<TargetName ID="1">bờ rét</TargetName>
+	</Name>
+	<Name ID="92">
+		<SourceName>broca</SourceName>
+		<TargetName ID="1">bờ rô ca</TargetName>
+	</Name>
+	<Name ID="93">
+		<SourceName>bru</SourceName>
+		<TargetName ID="1">bờ ru</TargetName>
+	</Name>
+	<Name ID="94">
+		<SourceName>brunei</SourceName>
+		<TargetName ID="1">bờ ru nây</TargetName>
+	</Name>
+	<Name ID="95">
+		<SourceName>buffier</SourceName>
+		<TargetName ID="1">bu i phi ơ</TargetName>
+	</Name>
+	<Name ID="96">
+		<SourceName>bug</SourceName>
+		<TargetName ID="1">bấc</TargetName>
+	</Name>
+	<Name ID="97">
+		<SourceName>bujumbura</SourceName>
+		<TargetName ID="1">bu gium bu ra</TargetName>
+	</Name>
+	<Name ID="98">
+		<SourceName>buryldajtal</SourceName>
+		<TargetName ID="1">bu rưn đai tan</TargetName>
+	</Name>
+	<Name ID="99">
+		<SourceName>butor</SourceName>
+		<TargetName ID="1">buy tô</TargetName>
+	</Name>
+	<Name ID="100">
+		<SourceName>byron</SourceName>
+		<TargetName ID="1">bai rơn</TargetName>
+	</Name>
+	<Name ID="101">
+		<SourceName>bystrica</SourceName>
+		<TargetName ID="1">bi sờ tri ca</TargetName>
+	</Name>
+	<Name ID="102">
+		<SourceName>byzantine</SourceName>
+		<TargetName ID="1">bi gian tin</TargetName>
+	</Name>
+	<Name ID="103">
+		<SourceName>caius</SourceName>
+		<TargetName ID="1">cai út</TargetName>
+	</Name>
+	<Name ID="104">
+		<SourceName>cameroun</SourceName>
+		<TargetName ID="1">ca mơ run</TargetName>
+	</Name>
+	<Name ID="105">
+		<SourceName>cantabrica</SourceName>
+		<TargetName ID="1">can ta bờ ri ca</TargetName>
+	</Name>
+	<Name ID="106">
+		<SourceName>caprarola</SourceName>
+		<TargetName ID="1">cáp ra rô la</TargetName>
+	</Name>
+	<Name ID="107">
+		<SourceName>caracas</SourceName>
+		<TargetName ID="1">ca ra cát</TargetName>
+	</Name>
+	<Name ID="108">
+		<SourceName>carolina</SourceName>
+		<TargetName ID="1">ca rô li na</TargetName>
+	</Name>
+	<Name ID="109">
+		<SourceName>carpentaria</SourceName>
+		<TargetName ID="1">các ben ta ri a</TargetName>
+	</Name>
+	<Name ID="110">
+		<SourceName>carthage</SourceName>
+		<TargetName ID="1">các ta giơ</TargetName>
+	</Name>
+	<Name ID="111">
+		<SourceName>caruso</SourceName>
+		<TargetName ID="1">ca ru sô</TargetName>
+	</Name>
+	<Name ID="112">
+		<SourceName>cassai</SourceName>
+		<TargetName ID="1">cát sai</TargetName>
+	</Name>
+	<Name ID="113">
+		<SourceName>cassatt</SourceName>
+		<TargetName ID="1">ca xát</TargetName>
+	</Name>
+	<Name ID="114">
+		<SourceName>catroux</SourceName>
+		<TargetName ID="1">ca tru</TargetName>
+	</Name>
+	<Name ID="115">
+		<SourceName>cavour</SourceName>
+		<TargetName ID="1">ca vua</TargetName>
+	</Name>
+	<Name ID="116">
+		<SourceName>champagne</SourceName>
+		<TargetName ID="1">sem bần</TargetName>
+	</Name>
+	<Name ID="117">
+		<SourceName>channa</SourceName>
+		<TargetName ID="1">chan na</TargetName>
+	</Name>
+	<Name ID="118">
+		<SourceName>chimborazo</SourceName>
+		<TargetName ID="1">chim bô ra giô</TargetName>
+	</Name>
+	<Name ID="119">
+		<SourceName>chitungwiza</SourceName>
+		<TargetName ID="1">chi tung quy gia</TargetName>
+	</Name>
+	<Name ID="120">
+		<SourceName>chudsko</SourceName>
+		<TargetName ID="1">chút xờ cơ</TargetName>
+	</Name>
+	<Name ID="121">
+		<SourceName>chukchi</SourceName>
+		<TargetName ID="1">chúc chi</TargetName>
+	</Name>
+	<Name ID="122">
+		<SourceName>chuuk</SourceName>
+		<TargetName ID="1">chúc</TargetName>
+	</Name>
+	<Name ID="123">
+		<SourceName>clausius</SourceName>
+		<TargetName ID="1">cờ lao di út</TargetName>
+	</Name>
+	<Name ID="124">
+		<SourceName>clementina</SourceName>
+		<TargetName ID="1">cờ lê mơn ti nơ</TargetName>
+	</Name>
+	<Name ID="125">
+		<SourceName>cliburn</SourceName>
+		<TargetName ID="1">cờ lai bơn</TargetName>
+	</Name>
+	<Name ID="126">
+		<SourceName>clouet</SourceName>
+		<TargetName ID="1">cờ lu ét</TargetName>
+	</Name>
+	<Name ID="127">
+		<SourceName>cohen</SourceName>
+		<TargetName ID="1">cô hen</TargetName>
+	</Name>
+	<Name ID="128">
+		<SourceName>cohl</SourceName>
+		<TargetName ID="1">côn</TargetName>
+	</Name>
+	<Name ID="129">
+		<SourceName>colani</SourceName>
+		<TargetName ID="1">cô la ni</TargetName>
+	</Name>
+	<Name ID="130">
+		<SourceName>cook</SourceName>
+		<TargetName ID="1">cúc</TargetName>
+	</Name>
+	<Name ID="131">
+		<SourceName>coriolis</SourceName>
+		<TargetName ID="1">cô ri ô lít</TargetName>
+	</Name>
+	<Name ID="132">
+		<SourceName>cork</SourceName>
+		<TargetName ID="1">cót</TargetName>
+	</Name>
+	<Name ID="133">
+		<SourceName>corneille</SourceName>
+		<TargetName ID="1">cót nây</TargetName>
+	</Name>
+	<Name ID="134">
+		<SourceName>cortot</SourceName>
+		<TargetName ID="1">cót tô</TargetName>
+	</Name>
+	<Name ID="135">
+		<SourceName>coser</SourceName>
+		<TargetName ID="1">cô sơ</TargetName>
+	</Name>
+	<Name ID="136">
+		<SourceName>cournot</SourceName>
+		<TargetName ID="1">cua nót</TargetName>
+	</Name>
+	<Name ID="137">
+		<SourceName>crafts</SourceName>
+		<TargetName ID="1">cờ ráp</TargetName>
+	</Name>
+	<Name ID="138">
+		<SourceName>crane</SourceName>
+		<TargetName ID="1">cờ rây nơ</TargetName>
+	</Name>
+	<Name ID="139">
+		<SourceName>cromwell</SourceName>
+		<TargetName ID="1">cờ rôm quen</TargetName>
+	</Name>
+	<Name ID="140">
+		<SourceName>elbert</SourceName>
+		<TargetName ID="1">eo bớt</TargetName>
+	</Name>
+	<Name ID="141">
+		<SourceName>elsa</SourceName>
+		<TargetName ID="1">en xa</TargetName>
+	</Name>
+	<Name ID="142">
+		<SourceName>engels</SourceName>
+		<TargetName ID="1">en ghen</TargetName>
+	</Name>
+	<Name ID="143">
+		<SourceName>enisej</SourceName>
+		<TargetName ID="1">e ni xây</TargetName>
+	</Name>
+	<Name ID="144">
+		<SourceName>erlenmeyer</SourceName>
+		<TargetName ID="1">ơ len mây ơ</TargetName>
+	</Name>
+	<Name ID="145">
+		<SourceName>es</SourceName>
+		<TargetName ID="1">ét</TargetName>
+	</Name>
+	<Name ID="146">
+		<SourceName>eskimo</SourceName>
+		<TargetName ID="1">ét sờ ki mô</TargetName>
+	</Name>
+	<Name ID="147">
+		<SourceName>este</SourceName>
+		<TargetName ID="1">ét te</TargetName>
+	</Name>
+	<Name ID="148">
+		<SourceName>faiyum</SourceName>
+		<TargetName ID="1">phai um</TargetName>
+	</Name>
+	<Name ID="149">
+		<SourceName>faure</SourceName>
+		<TargetName ID="1">phô rơ</TargetName>
+	</Name>
+	<Name ID="150">
+		<SourceName>fernando</SourceName>
+		<TargetName ID="1">phéc nan đô</TargetName>
+	</Name>
+	<Name ID="151">
+		<SourceName>firenze</SourceName>
+		<TargetName ID="1">phai ran giơ</TargetName>
+	</Name>
+	<Name ID="152">
+		<SourceName>flindt</SourceName>
+		<TargetName ID="1">phờ lin tơ</TargetName>
+	</Name>
+	<Name ID="153">
+		<SourceName>florey</SourceName>
+		<TargetName ID="1">phờ lo ri</TargetName>
+	</Name>
+	<Name ID="154">
+		<SourceName>fogo</SourceName>
+		<TargetName ID="1">phô gô</TargetName>
+	</Name>
+	<Name ID="155">
+		<SourceName>franca</SourceName>
+		<TargetName ID="1">phờ ran xa</TargetName>
+	</Name>
+	<Name ID="156">
+		<SourceName>franklin</SourceName>
+		<TargetName ID="1">phờ ran cờ lin</TargetName>
+	</Name>
+	<Name ID="157">
+		<SourceName>fransisco</SourceName>
+		<TargetName ID="1">phờ ran xi cô</TargetName>
+	</Name>
+	<Name ID="158">
+		<SourceName>freeport</SourceName>
+		<TargetName ID="1">phờ ri bót</TargetName>
+	</Name>
+	<Name ID="159">
+		<SourceName>freinet</SourceName>
+		<TargetName ID="1">phờ rây nét</TargetName>
+	</Name>
+	<Name ID="160">
+		<SourceName>friedman</SourceName>
+		<TargetName ID="1">phờ rít men</TargetName>
+	</Name>
+	<Name ID="161">
+		<SourceName>frisch</SourceName>
+		<TargetName ID="1">phờ rít sờ</TargetName>
+	</Name>
+	<Name ID="162">
+		<SourceName>frobenius</SourceName>
+		<TargetName ID="1">phờ rô bê ni út</TargetName>
+	</Name>
+	<Name ID="163">
+		<SourceName>gabor</SourceName>
+		<TargetName ID="1">ga bô</TargetName>
+	</Name>
+	<Name ID="164">
+		<SourceName>gadamer</SourceName>
+		<TargetName ID="1">ga đa mơ</TargetName>
+	</Name>
+	<Name ID="165">
+		<SourceName>gambetta</SourceName>
+		<TargetName ID="1">gam bét ta</TargetName>
+	</Name>
+	<Name ID="166">
+		<SourceName>gana</SourceName>
+		<TargetName ID="1">ga na</TargetName>
+	</Name>
+	<Name ID="167">
+		<SourceName>garibaldi</SourceName>
+		<TargetName ID="1">ga ri ban đi</TargetName>
+	</Name>
+	<Name ID="168">
+		<SourceName>gascogne</SourceName>
+		<TargetName ID="1">ga xờ cô nhơ</TargetName>
+	</Name>
+	<Name ID="169">
+		<SourceName>gauss</SourceName>
+		<TargetName ID="1">gau xơ</TargetName>
+	</Name>
+	<Name ID="170">
+		<SourceName>general</SourceName>
+		<TargetName ID="1">gie nơ ron</TargetName>
+	</Name>
+	<Name ID="171">
+		<SourceName>gent</SourceName>
+		<TargetName ID="1">ghen tơ</TargetName>
+	</Name>
+	<Name ID="172">
+		<SourceName>gestalt</SourceName>
+		<TargetName ID="1">ghét sờ tan</TargetName>
+	</Name>
+	<Name ID="173">
+		<SourceName>gibraltar</SourceName>
+		<TargetName ID="1">ghi bờ ran ta</TargetName>
+	</Name>
+	<Name ID="174">
+		<SourceName>gilgamesh</SourceName>
+		<TargetName ID="1">ghin ga me sờ</TargetName>
+	</Name>
+	<Name ID="175">
+		<SourceName>gilgit</SourceName>
+		<TargetName ID="1">ghin gít</TargetName>
+	</Name>
+	<Name ID="176">
+		<SourceName>giovanni</SourceName>
+		<TargetName ID="1">giô van ni</TargetName>
+	</Name>
+	<Name ID="177">
+		<SourceName>goa</SourceName>
+		<TargetName ID="1">go a</TargetName>
+	</Name>
+	<Name ID="178">
+		<SourceName>gobineau</SourceName>
+		<TargetName ID="1">gô bi nô</TargetName>
+	</Name>
+	<Name ID="179">
+		<SourceName>gorbachjov</SourceName>
+		<TargetName ID="1">giót ba chốp</TargetName>
+	</Name>
+	<Name ID="180">
+		<SourceName>grande</SourceName>
+		<TargetName ID="1">gờ ran đê</TargetName>
+	</Name>
+	<Name ID="181">
+		<SourceName>gris</SourceName>
+		<TargetName ID="1">gờ rít</TargetName>
+	</Name>
+	<Name ID="182">
+		<SourceName>guadalquivir</SourceName>
+		<TargetName ID="1">gua đan ki via</TargetName>
+	</Name>
+	<Name ID="183">
+		<SourceName>gudea</SourceName>
+		<TargetName ID="1">gu đê a</TargetName>
+	</Name>
+	<Name ID="184">
+		<SourceName>guilmet</SourceName>
+		<TargetName ID="1">ghin mít</TargetName>
+	</Name>
+	<Name ID="185">
+		<SourceName>gupta</SourceName>
+		<TargetName ID="1">gúp ta</TargetName>
+	</Name>
+	<Name ID="186">
+		<SourceName>hadassah</SourceName>
+		<TargetName ID="1">ha đát xa</TargetName>
+	</Name>
+	<Name ID="187">
+		<SourceName>haiti</SourceName>
+		<TargetName ID="1">hai ti</TargetName>
+	</Name>
+	<Name ID="188">
+		<SourceName>halmahera</SourceName>
+		<TargetName ID="1">han ma hê ra</TargetName>
+	</Name>
+	<Name ID="189">
+		<SourceName>hammourabi</SourceName>
+		<TargetName ID="1">ham moa ra bi</TargetName>
+	</Name>
+	<Name ID="190">
+		<SourceName>haripunjaya</SourceName>
+		<TargetName ID="1">ha ri bun gia da</TargetName>
+	</Name>
+	<Name ID="191">
+		<SourceName>hata</SourceName>
+		<TargetName ID="1">ha ta</TargetName>
+	</Name>
+	<Name ID="192">
+		<SourceName>haushofer</SourceName>
+		<TargetName ID="1">hao sờ hô phơ</TargetName>
+	</Name>
+	<Name ID="193">
+		<SourceName>hawai</SourceName>
+		<TargetName ID="1">ha quai</TargetName>
+	</Name>
+	<Name ID="194">
+		<SourceName>heidegger</SourceName>
+		<TargetName ID="1">hai đê giơ</TargetName>
+	</Name>
+	<Name ID="195">
+		<SourceName>hieronymus</SourceName>
+		<TargetName ID="1">hai ơ ro ni mút</TargetName>
+	</Name>
+	<Name ID="196">
+		<SourceName>hilbert</SourceName>
+		<TargetName ID="1">hin bớt</TargetName>
+	</Name>
+	<Name ID="197">
+		<SourceName>hindemith</SourceName>
+		<TargetName ID="1">hin đơ mít</TargetName>
+	</Name>
+	<Name ID="198">
+		<SourceName>hiroshima</SourceName>
+		<TargetName ID="1">hi rô si ma</TargetName>
+	</Name>
+	<Name ID="199">
+		<SourceName>hjelmslev</SourceName>
+		<TargetName ID="1">hi em xờ lép</TargetName>
+	</Name>
+	<Name ID="200">
+		<SourceName>hollywood</SourceName>
+		<TargetName ID="1">ho li gút</TargetName>
+	</Name>
+	<Name ID="201">
+		<SourceName>hondo</SourceName>
+		<TargetName ID="1">hôn đô</TargetName>
+	</Name>
+	<Name ID="202">
+		<SourceName>hooch</SourceName>
+		<TargetName ID="1">hút chơ</TargetName>
+	</Name>
+	<Name ID="203">
+		<SourceName>horkheimer</SourceName>
+		<TargetName ID="1">hóc ham mơ</TargetName>
+	</Name>
+	<Name ID="204">
+		<SourceName>hugo</SourceName>
+		<TargetName ID="1">hu gô</TargetName>
+	</Name>
+	<Name ID="205">
+		<SourceName>hulse</SourceName>
+		<TargetName ID="1">hăn xơ</TargetName>
+	</Name>
+	<Name ID="206">
+		<SourceName>ictinos</SourceName>
+		<TargetName ID="1">ích ti nốt</TargetName>
+	</Name>
+	<Name ID="207">
+		<SourceName>ida</SourceName>
+		<TargetName ID="1">i đa</TargetName>
+	</Name>
+	<Name ID="208">
+		<SourceName>inn</SourceName>
+		<TargetName ID="1">in</TargetName>
+	</Name>
+	<Name ID="209">
+		<SourceName>ionesco</SourceName>
+		<TargetName ID="1">lô ne xờ cô</TargetName>
+	</Name>
+	<Name ID="210">
+		<SourceName>irkut</SourceName>
+		<TargetName ID="1">ia cút</TargetName>
+	</Name>
+	<Name ID="211">
+		<SourceName>irtysh</SourceName>
+		<TargetName ID="1">ia tít sờ</TargetName>
+	</Name>
+	<Name ID="212">
+		<SourceName>isozaki</SourceName>
+		<TargetName ID="1">i xô gia ki</TargetName>
+	</Name>
+	<Name ID="213">
+		<SourceName>ivens</SourceName>
+		<TargetName ID="1">i ven xơ</TargetName>
+	</Name>
+	<Name ID="214">
+		<SourceName>iwasaki</SourceName>
+		<TargetName ID="1">loa xa ki</TargetName>
+	</Name>
+	<Name ID="215">
+		<SourceName>jacobins</SourceName>
+		<TargetName ID="1">gia cô banh</TargetName>
+	</Name>
+	<Name ID="216">
+		<SourceName>jacques</SourceName>
+		<TargetName ID="1">giắc</TargetName>
+	</Name>
+	<Name ID="217">
+		<SourceName>jakarta</SourceName>
+		<TargetName ID="1">gia các ta</TargetName>
+	</Name>
+	<Name ID="218">
+		<SourceName>jamna</SourceName>
+		<TargetName ID="1">giam na</TargetName>
+	</Name>
+	<Name ID="219">
+		<SourceName>java</SourceName>
+		<TargetName ID="1">gia va</TargetName>
+	</Name>
+	<Name ID="220">
+		<SourceName>jerusalem</SourceName>
+		<TargetName ID="1">giê ru xa lem</TargetName>
+	</Name>
+	<Name ID="221">
+		<SourceName>jones</SourceName>
+		<TargetName ID="1">giôn</TargetName>
+	</Name>
+	<Name ID="222">
+		<SourceName>juneau</SourceName>
+		<TargetName ID="1">giu nô</TargetName>
+	</Name>
+	<Name ID="223">
+		<SourceName>kachanaburi</SourceName>
+		<TargetName ID="1">ca cha na bu ri</TargetName>
+	</Name>
+	<Name ID="224">
+		<SourceName>kailas</SourceName>
+		<TargetName ID="1">cai lát</TargetName>
+	</Name>
+	<Name ID="225">
+		<SourceName>kalatozov</SourceName>
+		<TargetName ID="1">ka la tô giốp</TargetName>
+	</Name>
+	<Name ID="226">
+		<SourceName>kalemie</SourceName>
+		<TargetName ID="1">ca lê mi</TargetName>
+	</Name>
+	<Name ID="227">
+		<SourceName>kaloum</SourceName>
+		<TargetName ID="1">ca lum</TargetName>
+	</Name>
+	<Name ID="228">
+		<SourceName>kanin</SourceName>
+		<TargetName ID="1">ca nin</TargetName>
+	</Name>
+	<Name ID="229">
+		<SourceName>kanto</SourceName>
+		<TargetName ID="1">can tô</TargetName>
+	</Name>
+	<Name ID="230">
+		<SourceName>karcevskij</SourceName>
+		<TargetName ID="1">các xép sờ ki</TargetName>
+	</Name>
+	<Name ID="231">
+		<SourceName>karu</SourceName>
+		<TargetName ID="1">ca ru</TargetName>
+	</Name>
+	<Name ID="232">
+		<SourceName>kautsky</SourceName>
+		<TargetName ID="1">cau xờ ki</TargetName>
+	</Name>
+	<Name ID="233">
+		<SourceName>kayes</SourceName>
+		<TargetName ID="1">cây ét</TargetName>
+	</Name>
+	<Name ID="234">
+		<SourceName>kedah</SourceName>
+		<TargetName ID="1">kê đa</TargetName>
+	</Name>
+	<Name ID="235">
+		<SourceName>kendall</SourceName>
+		<TargetName ID="1">ken đan</TargetName>
+	</Name>
+	<Name ID="236">
+		<SourceName>kerama</SourceName>
+		<TargetName ID="1">kê ra ma</TargetName>
+	</Name>
+	<Name ID="237">
+		<SourceName>kerenskij</SourceName>
+		<TargetName ID="1">kê ren sờ ki</TargetName>
+	</Name>
+	<Name ID="238">
+		<SourceName>khachaturjan</SourceName>
+		<TargetName ID="1">kha cha tu ri an</TargetName>
+	</Name>
+	<Name ID="239">
+		<SourceName>khamseng</SourceName>
+		<TargetName ID="1">khăm xèng</TargetName>
+	</Name>
+	<Name ID="240">
+		<SourceName>khartoum</SourceName>
+		<TargetName ID="1">khắc tum</TargetName>
+	</Name>
+	<Name ID="241">
+		<SourceName>khatanga</SourceName>
+		<TargetName ID="1">kha tan ga</TargetName>
+	</Name>
+	<Name ID="242">
+		<SourceName>kigoma</SourceName>
+		<TargetName ID="1">ki gô ma</TargetName>
+	</Name>
+	<Name ID="243">
+		<SourceName>kilby</SourceName>
+		<TargetName ID="1">kin bi</TargetName>
+	</Name>
+	<Name ID="244">
+		<SourceName>kiprenskij</SourceName>
+		<TargetName ID="1">kíp ren sờ ki</TargetName>
+	</Name>
+	<Name ID="245">
+		<SourceName>kirchoff</SourceName>
+		<TargetName ID="1">ki ê chốp</TargetName>
+	</Name>
+	<Name ID="246">
+		<SourceName>kisangani</SourceName>
+		<TargetName ID="1">ki xan ga ni</TargetName>
+	</Name>
+	<Name ID="247">
+		<SourceName>kisch</SourceName>
+		<TargetName ID="1">ki sơ</TargetName>
+	</Name>
+	<Name ID="248">
+		<SourceName>klaproth</SourceName>
+		<TargetName ID="1">cờ láp rốt</TargetName>
+	</Name>
+	<Name ID="249">
+		<SourceName>kljuchevskaja</SourceName>
+		<TargetName ID="1">cờ liu chép sờ ca gia</TargetName>
+	</Name>
+	<Name ID="250">
+		<SourceName>kokorinov</SourceName>
+		<TargetName ID="1">cô cô ri nốp</TargetName>
+	</Name>
+	<Name ID="251">
+		<SourceName>kong</SourceName>
+		<TargetName ID="1">công</TargetName>
+	</Name>
+	<Name ID="252">
+		<SourceName>kongpong</SourceName>
+		<TargetName ID="1">công bông</TargetName>
+	</Name>
+	<Name ID="253">
+		<SourceName>kosygin</SourceName>
+		<TargetName ID="1">cô sư ghin</TargetName>
+	</Name>
+	<Name ID="254">
+		<SourceName>krasheninnikov</SourceName>
+		<TargetName ID="1">cờ ra sen nin ni cốp</TargetName>
+	</Name>
+	<Name ID="255">
+		<SourceName>krasnov</SourceName>
+		<TargetName ID="1">cờ ra xờ nốp</TargetName>
+	</Name>
+	<Name ID="256">
+		<SourceName>krasnovodsk</SourceName>
+		<TargetName ID="1">cờ ra xờ nô vốt xờ cơ</TargetName>
+	</Name>
+	<Name ID="257">
+		<SourceName>krasovskij</SourceName>
+		<TargetName ID="1">cờ ra sốp sờ ki</TargetName>
+	</Name>
+	<Name ID="258">
+		<SourceName>kratie</SourceName>
+		<TargetName ID="1">cờ ra ti</TargetName>
+	</Name>
+	<Name ID="259">
+		<SourceName>krempf</SourceName>
+		<TargetName ID="1">cờ rem</TargetName>
+	</Name>
+	<Name ID="260">
+		<SourceName>kummer</SourceName>
+		<TargetName ID="1">cum mơ</TargetName>
+	</Name>
+	<Name ID="261">
+		<SourceName>kustodiev</SourceName>
+		<TargetName ID="1">cu xờ tô đi ép</TargetName>
+	</Name>
+	<Name ID="262">
+		<SourceName>kyoto</SourceName>
+		<TargetName ID="1">ki ô tô</TargetName>
+	</Name>
+	<Name ID="263">
+		<SourceName>labasa</SourceName>
+		<TargetName ID="1">la ba xa</TargetName>
+	</Name>
+	<Name ID="264">
+		<SourceName>lamy</SourceName>
+		<TargetName ID="1">la my</TargetName>
+	</Name>
+	<Name ID="265">
+		<SourceName>lancaster</SourceName>
+		<TargetName ID="1">lan cát sờ tơ</TargetName>
+	</Name>
+	<Name ID="266">
+		<SourceName>lange</SourceName>
+		<TargetName ID="1">lan ghê</TargetName>
+	</Name>
+	<Name ID="267">
+		<SourceName>langmuir</SourceName>
+		<TargetName ID="1">lăng miu ơ</TargetName>
+	</Name>
+	<Name ID="268">
+		<SourceName>laniel</SourceName>
+		<TargetName ID="1">la ni en</TargetName>
+	</Name>
+	<Name ID="269">
+		<SourceName>laparra</SourceName>
+		<TargetName ID="1">la ba ra</TargetName>
+	</Name>
+	<Name ID="270">
+		<SourceName>laquedives</SourceName>
+		<TargetName ID="1">la cơ đi vơ</TargetName>
+	</Name>
+	<Name ID="271">
+		<SourceName>lausanne</SourceName>
+		<TargetName ID="1">lô san</TargetName>
+	</Name>
+	<Name ID="272">
+		<SourceName>lebedev</SourceName>
+		<TargetName ID="1">lê bê đép</TargetName>
+	</Name>
+	<Name ID="273">
+		<SourceName>ledou</SourceName>
+		<TargetName ID="1">lơ đu</TargetName>
+	</Name>
+	<Name ID="274">
+		<SourceName>leduc</SourceName>
+		<TargetName ID="1">lê đắc</TargetName>
+	</Name>
+	<Name ID="275">
+		<SourceName>lensk</SourceName>
+		<TargetName ID="1">len xờ cơ</TargetName>
+	</Name>
+	<Name ID="276">
+		<SourceName>lezama</SourceName>
+		<TargetName ID="1">lê xa ma</TargetName>
+	</Name>
+	<Name ID="277">
+		<SourceName>lhasa</SourceName>
+		<TargetName ID="1">la sa</TargetName>
+	</Name>
+	<Name ID="278">
+		<SourceName>liberia</SourceName>
+		<TargetName ID="1">li bê ri a</TargetName>
+	</Name>
+	<Name ID="279">
+		<SourceName>lieberman</SourceName>
+		<TargetName ID="1">li béc man</TargetName>
+	</Name>
+	<Name ID="280">
+		<SourceName>lilongwe</SourceName>
+		<TargetName ID="1">li lông gu ê</TargetName>
+	</Name>
+	<Name ID="281">
+		<SourceName>limassol</SourceName>
+		<TargetName ID="1">li ma xon</TargetName>
+	</Name>
+	<Name ID="282">
+		<SourceName>limerick</SourceName>
+		<TargetName ID="1">lai mơ rít</TargetName>
+	</Name>
+	<Name ID="283">
+		<SourceName>listvjanka</SourceName>
+		<TargetName ID="1">lít tơ vi an ca</TargetName>
+	</Name>
+	<Name ID="284">
+		<SourceName>locke</SourceName>
+		<TargetName ID="1">lốc cơ</TargetName>
+	</Name>
+	<Name ID="285">
+		<SourceName>lodygin</SourceName>
+		<TargetName ID="1">lô đi ghin</TargetName>
+	</Name>
+	<Name ID="286">
+		<SourceName>loschmidt</SourceName>
+		<TargetName ID="1">lốt mít</TargetName>
+	</Name>
+	<Name ID="287">
+		<SourceName>louvre</SourceName>
+		<TargetName ID="1">lao rơ</TargetName>
+	</Name>
+	<Name ID="288">
+		<SourceName>loyola</SourceName>
+		<TargetName ID="1">lô dô la</TargetName>
+	</Name>
+	<Name ID="289">
+		<SourceName>lucretius</SourceName>
+		<TargetName ID="1">lu cờ rê ti út</TargetName>
+	</Name>
+	<Name ID="290">
+		<SourceName>lukasiewicz</SourceName>
+		<TargetName ID="1">lu ca xi ê vích</TargetName>
+	</Name>
+	<Name ID="291">
+		<SourceName>luzon</SourceName>
+		<TargetName ID="1">lu xông</TargetName>
+	</Name>
+	<Name ID="292">
+		<SourceName>lydia</SourceName>
+		<TargetName ID="1">ly đi a</TargetName>
+	</Name>
+	<Name ID="293">
+		<SourceName>machado</SourceName>
+		<TargetName ID="1">ma cha đô</TargetName>
+	</Name>
+	<Name ID="294">
+		<SourceName>machu</SourceName>
+		<TargetName ID="1">ma chu</TargetName>
+	</Name>
+	<Name ID="295">
+		<SourceName>macianus</SourceName>
+		<TargetName ID="1">ma xi a nút</TargetName>
+	</Name>
+	<Name ID="296">
+		<SourceName>mackinder</SourceName>
+		<TargetName ID="1">mác kin đơ</TargetName>
+	</Name>
+	<Name ID="297">
+		<SourceName>madeleine</SourceName>
+		<TargetName ID="1">ma đơ len</TargetName>
+	</Name>
+	<Name ID="298">
+		<SourceName>madonnas</SourceName>
+		<TargetName ID="1">ma đôn na</TargetName>
+	</Name>
+	<Name ID="299">
+		<SourceName>maecenas</SourceName>
+		<TargetName ID="1">ma ê xê nát</TargetName>
+	</Name>
+	<Name ID="300">
+		<SourceName>mahaweli</SourceName>
+		<TargetName ID="1">ma ha oe li</TargetName>
+	</Name>
+	<Name ID="301">
+		<SourceName>majakovskij</SourceName>
+		<TargetName ID="1">mai a cốp xờ ki</TargetName>
+	</Name>
+	<Name ID="302">
+		<SourceName>makara</SourceName>
+		<TargetName ID="1">ma ca ra</TargetName>
+	</Name>
+	<Name ID="303">
+		<SourceName>manche</SourceName>
+		<TargetName ID="1">măng sơ</TargetName>
+	</Name>
+	<Name ID="304">
+		<SourceName>manchester</SourceName>
+		<TargetName ID="1">man chét sờ tơ</TargetName>
+	</Name>
+	<Name ID="305">
+		<SourceName>mande</SourceName>
+		<TargetName ID="1">man đe</TargetName>
+	</Name>
+	<Name ID="306">
+		<SourceName>mangyshlak</SourceName>
+		<TargetName ID="1">man gư sờ lắc</TargetName>
+	</Name>
+	<Name ID="307">
+		<SourceName>manu</SourceName>
+		<TargetName ID="1">ma nu</TargetName>
+	</Name>
+	<Name ID="308">
+		<SourceName>manukau</SourceName>
+		<TargetName ID="1">ma nu cao</TargetName>
+	</Name>
+	<Name ID="309">
+		<SourceName>maputo</SourceName>
+		<TargetName ID="1">ma bu tô</TargetName>
+	</Name>
+	<Name ID="310">
+		<SourceName>mardouk</SourceName>
+		<TargetName ID="1">mác đúc</TargetName>
+	</Name>
+	<Name ID="311">
+		<SourceName>mariane</SourceName>
+		<TargetName ID="1">ma ri an</TargetName>
+	</Name>
+	<Name ID="312">
+		<SourceName>martaban</SourceName>
+		<TargetName ID="1">ma ta ban</TargetName>
+	</Name>
+	<Name ID="313">
+		<SourceName>martel</SourceName>
+		<TargetName ID="1">mác ten</TargetName>
+	</Name>
+	<Name ID="314">
+		<SourceName>marty</SourceName>
+		<TargetName ID="1">mác ty</TargetName>
+	</Name>
+	<Name ID="315">
+		<SourceName>masan</SourceName>
+		<TargetName ID="1">ma san</TargetName>
+	</Name>
+	<Name ID="316">
+		<SourceName>maspero</SourceName>
+		<TargetName ID="1">mát sờ bê rô</TargetName>
+	</Name>
+	<Name ID="317">
+		<SourceName>maung</SourceName>
+		<TargetName ID="1">ma ung</TargetName>
+	</Name>
+	<Name ID="318">
+		<SourceName>mcnamara</SourceName>
+		<TargetName ID="1">mác na ma ra</TargetName>
+	</Name>
+	<Name ID="319">
+		<SourceName>means</SourceName>
+		<TargetName ID="1">min xơ</TargetName>
+	</Name>
+	<Name ID="320">
+		<SourceName>meerzorg</SourceName>
+		<TargetName ID="1">mê giốc</TargetName>
+	</Name>
+	<Name ID="321">
+		<SourceName>meslier</SourceName>
+		<TargetName ID="1">mê li ê</TargetName>
+	</Name>
+	<Name ID="322">
+		<SourceName>metropolitan</SourceName>
+		<TargetName ID="1">mê tờ rô pô li tơn</TargetName>
+	</Name>
+	<Name ID="323">
+		<SourceName>michaux</SourceName>
+		<TargetName ID="1">mi sô</TargetName>
+	</Name>
+	<Name ID="324">
+		<SourceName>midway</SourceName>
+		<TargetName ID="1">mít quây</TargetName>
+	</Name>
+	<Name ID="325">
+		<SourceName>miguel</SourceName>
+		<TargetName ID="1">mi ghen</TargetName>
+	</Name>
+	<Name ID="326">
+		<SourceName>mikhajlov</SourceName>
+		<TargetName ID="1">mi khai lốp</TargetName>
+	</Name>
+	<Name ID="327">
+		<SourceName>milano</SourceName>
+		<TargetName ID="1">mi la nô</TargetName>
+	</Name>
+	<Name ID="328">
+		<SourceName>millais</SourceName>
+		<TargetName ID="1">mi lây</TargetName>
+	</Name>
+	<Name ID="329">
+		<SourceName>millan</SourceName>
+		<TargetName ID="1">mi lan</TargetName>
+	</Name>
+	<Name ID="330">
+		<SourceName>millardet</SourceName>
+		<TargetName ID="1">mi la đét</TargetName>
+	</Name>
+	<Name ID="331">
+		<SourceName>millet</SourceName>
+		<TargetName ID="1">mi lét</TargetName>
+	</Name>
+	<Name ID="332">
+		<SourceName>mingaladon</SourceName>
+		<TargetName ID="1">min ga la đôn</TargetName>
+	</Name>
+	<Name ID="333">
+		<SourceName>mistral</SourceName>
+		<TargetName ID="1">mít tran</TargetName>
+	</Name>
+	<Name ID="334">
+		<SourceName>mohammad</SourceName>
+		<TargetName ID="1">mô ha mát</TargetName>
+	</Name>
+	<Name ID="335">
+		<SourceName>moleschott</SourceName>
+		<TargetName ID="1">mô lê sót</TargetName>
+	</Name>
+	<Name ID="336">
+		<SourceName>mommu</SourceName>
+		<TargetName ID="1">mom mu</TargetName>
+	</Name>
+	<Name ID="337">
+		<SourceName>monaco</SourceName>
+		<TargetName ID="1">mô na cô</TargetName>
+	</Name>
+	<Name ID="338">
+		<SourceName>mondrian</SourceName>
+		<TargetName ID="1">môn đờ ri an</TargetName>
+	</Name>
+	<Name ID="339">
+		<SourceName>monroe</SourceName>
+		<TargetName ID="1">môn rô</TargetName>
+	</Name>
+	<Name ID="340">
+		<SourceName>monrovia</SourceName>
+		<TargetName ID="1">môn rô vi a</TargetName>
+	</Name>
+	<Name ID="341">
+		<SourceName>montague</SourceName>
+		<TargetName ID="1">môn ta ghiu</TargetName>
+	</Name>
+	<Name ID="342">
+		<SourceName>morava</SourceName>
+		<TargetName ID="1">mô ra va</TargetName>
+	</Name>
+	<Name ID="343">
+		<SourceName>moravia</SourceName>
+		<TargetName ID="1">mô ra vi a</TargetName>
+	</Name>
+	<Name ID="344">
+		<SourceName>more</SourceName>
+		<TargetName ID="1">mo</TargetName>
+	</Name>
+	<Name ID="345">
+		<SourceName>morse</SourceName>
+		<TargetName ID="1">mo xơ</TargetName>
+	</Name>
+	<Name ID="346">
+		<SourceName>mortillet</SourceName>
+		<TargetName ID="1">mót ti lét</TargetName>
+	</Name>
+	<Name ID="347">
+		<SourceName>moruo</SourceName>
+		<TargetName ID="1">mô ru ô</TargetName>
+	</Name>
+	<Name ID="348">
+		<SourceName>mount</SourceName>
+		<TargetName ID="1">mau tơ</TargetName>
+	</Name>
+	<Name ID="349">
+		<SourceName>mozart</SourceName>
+		<TargetName ID="1">mô gia</TargetName>
+	</Name>
+	<Name ID="350">
+		<SourceName>murray</SourceName>
+		<TargetName ID="1">mu rây</TargetName>
+	</Name>
+	<Name ID="351">
+		<SourceName>mussolini</SourceName>
+		<TargetName ID="1">mu xô li ni</TargetName>
+	</Name>
+	<Name ID="352">
+		<SourceName>nabopolassar</SourceName>
+		<TargetName ID="1">na bô bô lát xa</TargetName>
+	</Name>
+	<Name ID="353">
+		<SourceName>nagumo</SourceName>
+		<TargetName ID="1">na gu mô</TargetName>
+	</Name>
+	<Name ID="354">
+		<SourceName>nakasone</SourceName>
+		<TargetName ID="1">na ca xô ni</TargetName>
+	</Name>
+	<Name ID="355">
+		<SourceName>nalkowska</SourceName>
+		<TargetName ID="1">nan cốp xờ ka</TargetName>
+	</Name>
+	<Name ID="356">
+		<SourceName>nantes</SourceName>
+		<TargetName ID="1">năng tơ</TargetName>
+	</Name>
+	<Name ID="357">
+		<SourceName>napoleon</SourceName>
+		<TargetName ID="1">na bô lê ông</TargetName>
+	</Name>
+	<Name ID="358">
+		<SourceName>nattier</SourceName>
+		<TargetName ID="1">na ti ơ</TargetName>
+	</Name>
+	<Name ID="359">
+		<SourceName>navier</SourceName>
+		<TargetName ID="1">na vi ơ</TargetName>
+	</Name>
+	<Name ID="360">
+		<SourceName>neanderthal</SourceName>
+		<TargetName ID="1">nê an đéc tan</TargetName>
+	</Name>
+	<Name ID="361">
+		<SourceName>nefud</SourceName>
+		<TargetName ID="1">nê phút</TargetName>
+	</Name>
+	<Name ID="362">
+		<SourceName>nero</SourceName>
+		<TargetName ID="1">nê rô</TargetName>
+	</Name>
+	<Name ID="363">
+		<SourceName>neruda</SourceName>
+		<TargetName ID="1">nê ru đa</TargetName>
+	</Name>
+	<Name ID="364">
+		<SourceName>neto</SourceName>
+		<TargetName ID="1">nê tô</TargetName>
+	</Name>
+	<Name ID="365">
+		<SourceName>neve</SourceName>
+		<TargetName ID="1">nê vi</TargetName>
+	</Name>
+	<Name ID="366">
+		<SourceName>newton</SourceName>
+		<TargetName ID="1">niu tơn</TargetName>
+	</Name>
+	<Name ID="367">
+		<SourceName>nikolaj</SourceName>
+		<TargetName ID="1">ni cô lai</TargetName>
+	</Name>
+	<Name ID="368">
+		<SourceName>nil</SourceName>
+		<TargetName ID="1">nin</TargetName>
+	</Name>
+	<Name ID="369">
+		<SourceName>nixon</SourceName>
+		<TargetName ID="1">ních xơn</TargetName>
+	</Name>
+	<Name ID="370">
+		<SourceName>novikov</SourceName>
+		<TargetName ID="1">nô vi cốp</TargetName>
+	</Name>
+	<Name ID="371">
+		<SourceName>pailin</SourceName>
+		<TargetName ID="1">bai lin</TargetName>
+	</Name>
+	<Name ID="372">
+		<SourceName>palawan</SourceName>
+		<TargetName ID="1">ba la quan</TargetName>
+	</Name>
+	<Name ID="373">
+		<SourceName>pallu</SourceName>
+		<TargetName ID="1">ba lu</TargetName>
+	</Name>
+	<Name ID="374">
+		<SourceName>pampa</SourceName>
+		<TargetName ID="1">bam ba</TargetName>
+	</Name>
+	<Name ID="375">
+		<SourceName>papua</SourceName>
+		<TargetName ID="1">ba bu a</TargetName>
+	</Name>
+	<Name ID="376">
+		<SourceName>parkinson</SourceName>
+		<TargetName ID="1">ba kin sơn</TargetName>
+	</Name>
+	<Name ID="377">
+		<SourceName>pater</SourceName>
+		<TargetName ID="1">ba tơ</TargetName>
+	</Name>
+	<Name ID="378">
+		<SourceName>pavia</SourceName>
+		<TargetName ID="1">ba vi a</TargetName>
+	</Name>
+	<Name ID="379">
+		<SourceName>penjab</SourceName>
+		<TargetName ID="1">ben giáp</TargetName>
+	</Name>
+	<Name ID="380">
+		<SourceName>perret</SourceName>
+		<TargetName ID="1">be rê</TargetName>
+	</Name>
+	<Name ID="381">
+		<SourceName>peterburg</SourceName>
+		<TargetName ID="1">bê téc bua</TargetName>
+	</Name>
+	<Name ID="382">
+		<SourceName>petergof</SourceName>
+		<TargetName ID="1">bê téc gốp</TargetName>
+	</Name>
+	<Name ID="383">
+		<SourceName>petit</SourceName>
+		<TargetName ID="1">bê ti</TargetName>
+	</Name>
+	<Name ID="384">
+		<SourceName>petropavlov</SourceName>
+		<TargetName ID="1">bê trô báp lốp</TargetName>
+	</Name>
+	<Name ID="385">
+		<SourceName>pevsner</SourceName>
+		<TargetName ID="1">bép sờ nơ</TargetName>
+	</Name>
+	<Name ID="386">
+		<SourceName>phaxay</SourceName>
+		<TargetName ID="1">pha xay</TargetName>
+	</Name>
+	<Name ID="387">
+		<SourceName>pierce</SourceName>
+		<TargetName ID="1">bi ếc xờ</TargetName>
+	</Name>
+	<Name ID="388">
+		<SourceName>pindaros</SourceName>
+		<TargetName ID="1">bin đa rốt</TargetName>
+	</Name>
+	<Name ID="389">
+		<SourceName>piray</SourceName>
+		<TargetName ID="1">bi rây</TargetName>
+	</Name>
+	<Name ID="390">
+		<SourceName>pirita</SourceName>
+		<TargetName ID="1">bi ri ta</TargetName>
+	</Name>
+	<Name ID="391">
+		<SourceName>pjatro</SourceName>
+		<TargetName ID="1">bi a trô</TargetName>
+	</Name>
+	<Name ID="392">
+		<SourceName>plata</SourceName>
+		<TargetName ID="1">phờ la ta</TargetName>
+	</Name>
+	<Name ID="393">
+		<SourceName>pogodin</SourceName>
+		<TargetName ID="1">bô gô đin</TargetName>
+	</Name>
+	<Name ID="394">
+		<SourceName>poivre</SourceName>
+		<TargetName ID="1">boi vơ</TargetName>
+	</Name>
+	<Name ID="395">
+		<SourceName>pokrovsk</SourceName>
+		<TargetName ID="1">bô cờ rốp xờ cơ</TargetName>
+	</Name>
+	<Name ID="396">
+		<SourceName>popov</SourceName>
+		<TargetName ID="1">bô bốp</TargetName>
+	</Name>
+	<Name ID="397">
+		<SourceName>potebnja</SourceName>
+		<TargetName ID="1">bô tép ni a</TargetName>
+	</Name>
+	<Name ID="398">
+		<SourceName>praha</SourceName>
+		<TargetName ID="1">phờ ra ha</TargetName>
+	</Name>
+	<Name ID="399">
+		<SourceName>pribaltik</SourceName>
+		<TargetName ID="1">phờ ri ban tích</TargetName>
+	</Name>
+	<Name ID="400">
+		<SourceName>primo</SourceName>
+		<TargetName ID="1">phờ ri mô</TargetName>
+	</Name>
+	<Name ID="401">
+		<SourceName>pripjat</SourceName>
+		<TargetName ID="1">bờ ri bi át</TargetName>
+	</Name>
+	<Name ID="402">
+		<SourceName>proust</SourceName>
+		<TargetName ID="1">bờ rút sờ tơ</TargetName>
+	</Name>
+	<Name ID="403">
+		<SourceName>providenija</SourceName>
+		<TargetName ID="1">phờ rô vi đê ni a</TargetName>
+	</Name>
+	<Name ID="404">
+		<SourceName>puntarenas</SourceName>
+		<TargetName ID="1">bun ta rê nát</TargetName>
+	</Name>
+	<Name ID="405">
+		<SourceName>punto</SourceName>
+		<TargetName ID="1">bun tô</TargetName>
+	</Name>
+	<Name ID="406">
+		<SourceName>puskaraksa</SourceName>
+		<TargetName ID="1">bu xờ ca rắc xa</TargetName>
+	</Name>
+	<Name ID="407">
+		<SourceName>ragtime</SourceName>
+		<TargetName ID="1">rét tham</TargetName>
+	</Name>
+	<Name ID="408">
+		<SourceName>rajendravarman</SourceName>
+		<TargetName ID="1">ra gien đờ ra vác man</TargetName>
+	</Name>
+	<Name ID="409">
+		<SourceName>ramses</SourceName>
+		<TargetName ID="1">ram xét</TargetName>
+	</Name>
+	<Name ID="410">
+		<SourceName>ramuz</SourceName>
+		<TargetName ID="1">ra mu giờ</TargetName>
+	</Name>
+	<Name ID="411">
+		<SourceName>rantekombola</SourceName>
+		<TargetName ID="1">ran tê com bô la</TargetName>
+	</Name>
+	<Name ID="412">
+		<SourceName>rashid</SourceName>
+		<TargetName ID="1">ra sít</TargetName>
+	</Name>
+	<Name ID="413">
+		<SourceName>raymond</SourceName>
+		<TargetName ID="1">ray môn</TargetName>
+	</Name>
+	<Name ID="414">
+		<SourceName>redonda</SourceName>
+		<TargetName ID="1">rê đôn đa</TargetName>
+	</Name>
+	<Name ID="415">
+		<SourceName>rego</SourceName>
+		<TargetName ID="1">rê gô</TargetName>
+	</Name>
+	<Name ID="416">
+		<SourceName>reinhardt</SourceName>
+		<TargetName ID="1">rê nhắc</TargetName>
+	</Name>
+	<Name ID="417">
+		<SourceName>remarque</SourceName>
+		<TargetName ID="1">ri mắc</TargetName>
+	</Name>
+	<Name ID="418">
+		<SourceName>ridge</SourceName>
+		<TargetName ID="1">rít giơ</TargetName>
+	</Name>
+	<Name ID="419">
+		<SourceName>risorgimento</SourceName>
+		<TargetName ID="1">ri so ghi men tô</TargetName>
+	</Name>
+	<Name ID="420">
+		<SourceName>riyadh</SourceName>
+		<TargetName ID="1">ri át</TargetName>
+	</Name>
+	<Name ID="421">
+		<SourceName>robespierre</SourceName>
+		<TargetName ID="1">rô bét bi e</TargetName>
+	</Name>
+	<Name ID="422">
+		<SourceName>ronchamp</SourceName>
+		<TargetName ID="1">ron cham</TargetName>
+	</Name>
+	<Name ID="423">
+		<SourceName>rostom</SourceName>
+		<TargetName ID="1">rô xờ tôm</TargetName>
+	</Name>
+	<Name ID="424">
+		<SourceName>rostov</SourceName>
+		<TargetName ID="1">rốt sờ tốp</TargetName>
+	</Name>
+	<Name ID="425">
+		<SourceName>rudolph</SourceName>
+		<TargetName ID="1">ru đôn phơ</TargetName>
+	</Name>
+	<Name ID="426">
+		<SourceName>ruffini</SourceName>
+		<TargetName ID="1">ru phi ni</TargetName>
+	</Name>
+	<Name ID="427">
+		<SourceName>russell</SourceName>
+		<TargetName ID="1">rát seo</TargetName>
+	</Name>
+	<Name ID="428">
+		<SourceName>rydberg</SourceName>
+		<TargetName ID="1">rít bớt</TargetName>
+	</Name>
+	<Name ID="429">
+		<SourceName>schelling</SourceName>
+		<TargetName ID="1">sê linh</TargetName>
+	</Name>
+	<Name ID="430">
+		<SourceName>schleswig</SourceName>
+		<TargetName ID="1">sơ lê xờ vích</TargetName>
+	</Name>
+	<Name ID="431">
+		<SourceName>schoenflies</SourceName>
+		<TargetName ID="1">sôn phờ li sờ</TargetName>
+	</Name>
+	<Name ID="432">
+		<SourceName>schwartz</SourceName>
+		<TargetName ID="1">sờ quát</TargetName>
+	</Name>
+	<Name ID="433">
+		<SourceName>seymour</SourceName>
+		<TargetName ID="1">sây mo</TargetName>
+	</Name>
+	<Name ID="434">
+		<SourceName>shala</SourceName>
+		<TargetName ID="1">sa la</TargetName>
+	</Name>
+	<Name ID="435">
+		<SourceName>shan</SourceName>
+		<TargetName ID="1">san</TargetName>
+	</Name>
+	<Name ID="436">
+		<SourceName>shawlow</SourceName>
+		<TargetName ID="1">so lâu</TargetName>
+	</Name>
+	<Name ID="437">
+		<SourceName>shizuoka</SourceName>
+		<TargetName ID="1">si giu ô ca</TargetName>
+	</Name>
+	<Name ID="438">
+		<SourceName>takamatsu</SourceName>
+		<TargetName ID="1">ta ka mát xư</TargetName>
+	</Name>
+	<Name ID="439">
+		<SourceName>talysh</SourceName>
+		<TargetName ID="1">ta lứt</TargetName>
+	</Name>
+	<Name ID="440">
+		<SourceName>tarzan</SourceName>
+		<TargetName ID="1">tác giăng</TargetName>
+	</Name>
+	<Name ID="441">
+		<SourceName>tatras</SourceName>
+		<TargetName ID="1">ta trát sờ</TargetName>
+	</Name>
+	<Name ID="442">
+		<SourceName>ted</SourceName>
+		<TargetName ID="1">tét</TargetName>
+	</Name>
+	<Name ID="443">
+		<SourceName>temple</SourceName>
+		<TargetName ID="1">tem bồ</TargetName>
+	</Name>
+	<Name ID="444">
+		<SourceName>termen</SourceName>
+		<TargetName ID="1">tét men</TargetName>
+	</Name>
+	<Name ID="445">
+		<SourceName>tesla</SourceName>
+		<TargetName ID="1">tét sờ la</TargetName>
+	</Name>
+	<Name ID="446">
+		<SourceName>thames</SourceName>
+		<TargetName ID="1">thêm</TargetName>
+	</Name>
+	<Name ID="447">
+		<SourceName>thanom</SourceName>
+		<TargetName ID="1">tha nom</TargetName>
+	</Name>
+	<Name ID="448">
+		<SourceName>thermidor</SourceName>
+		<TargetName ID="1">thơ mi đô</TargetName>
+	</Name>
+	<Name ID="449">
+		<SourceName>thibault</SourceName>
+		<TargetName ID="1">ti bô</TargetName>
+	</Name>
+	<Name ID="450">
+		<SourceName>thom</SourceName>
+		<TargetName ID="1">thom</TargetName>
+	</Name>
+	<Name ID="451">
+		<SourceName>thompson</SourceName>
+		<TargetName ID="1">thom xơn</TargetName>
+	</Name>
+	<Name ID="452">
+		<SourceName>thorvaldsen</SourceName>
+		<TargetName ID="1">thót van xen</TargetName>
+	</Name>
+	<Name ID="453">
+		<SourceName>ticino</SourceName>
+		<TargetName ID="1">tít chi nô</TargetName>
+	</Name>
+	<Name ID="454">
+		<SourceName>tilak</SourceName>
+		<TargetName ID="1">ti lắc</TargetName>
+	</Name>
+	<Name ID="455">
+		<SourceName>tintoretto</SourceName>
+		<TargetName ID="1">tin tô rét tô</TargetName>
+	</Name>
+	<Name ID="456">
+		<SourceName>tirso</SourceName>
+		<TargetName ID="1">tia sô</TargetName>
+	</Name>
+	<Name ID="457">
+		<SourceName>tisza</SourceName>
+		<TargetName ID="1">ti xa</TargetName>
+	</Name>
+	<Name ID="458">
+		<SourceName>titan</SourceName>
+		<TargetName ID="1">ti tan</TargetName>
+	</Name>
+	<Name ID="459">
+		<SourceName>titicaca</SourceName>
+		<TargetName ID="1">ti ti ca ca</TargetName>
+	</Name>
+	<Name ID="460">
+		<SourceName>tiziano</SourceName>
+		<TargetName ID="1">ti gi a nô</TargetName>
+	</Name>
+	<Name ID="461">
+		<SourceName>tobago</SourceName>
+		<TargetName ID="1">tô ba gô</TargetName>
+	</Name>
+	<Name ID="462">
+		<SourceName>torra</SourceName>
+		<TargetName ID="1">tô ra</TargetName>
+	</Name>
+	<Name ID="463">
+		<SourceName>torrijos</SourceName>
+		<TargetName ID="1">tô ri ốt</TargetName>
+	</Name>
+	<Name ID="464">
+		<SourceName>trabzon</SourceName>
+		<TargetName ID="1">tráp giôn</TargetName>
+	</Name>
+	<Name ID="465">
+		<SourceName>transjordanie</SourceName>
+		<TargetName ID="1">tran giót đa ni</TargetName>
+	</Name>
+	<Name ID="466">
+		<SourceName>transkei</SourceName>
+		<TargetName ID="1">tơ ran xờ cây</TargetName>
+	</Name>
+	<Name ID="467">
+		<SourceName>trasimeno</SourceName>
+		<TargetName ID="1">tra si me nô</TargetName>
+	</Name>
+	<Name ID="468">
+		<SourceName>trifonovich</SourceName>
+		<TargetName ID="1">tri phô nô vít</TargetName>
+	</Name>
+	<Name ID="469">
+		<SourceName>trindade</SourceName>
+		<TargetName ID="1">trin đát</TargetName>
+	</Name>
+	<Name ID="470">
+		<SourceName>trinidad</SourceName>
+		<TargetName ID="1">tri ni đát</TargetName>
+	</Name>
+	<Name ID="471">
+		<SourceName>trockij</SourceName>
+		<TargetName ID="1">trốc ki</TargetName>
+	</Name>
+	<Name ID="472">
+		<SourceName>troeltsch</SourceName>
+		<TargetName ID="1">trôn sơ</TargetName>
+	</Name>
+	<Name ID="473">
+		<SourceName>turing</SourceName>
+		<TargetName ID="1">tu rinh</TargetName>
+	</Name>
+	<Name ID="474">
+		<SourceName>tuvalu</SourceName>
+		<TargetName ID="1">tu va lu</TargetName>
+	</Name>
+	<Name ID="475">
+		<SourceName>uda</SourceName>
+		<TargetName ID="1">u đa</TargetName>
+	</Name>
+	<Name ID="476">
+		<SourceName>ugab</SourceName>
+		<TargetName ID="1">u gáp</TargetName>
+	</Name>
+	<Name ID="477">
+		<SourceName>uryson</SourceName>
+		<TargetName ID="1">u rư xôn</TargetName>
+	</Name>
+	<Name ID="478">
+		<SourceName>ushinskij</SourceName>
+		<TargetName ID="1">u sin xờ ki</TargetName>
+	</Name>
+	<Name ID="479">
+		<SourceName>ustinova</SourceName>
+		<TargetName ID="1">u xờ ti nô va</TargetName>
+	</Name>
+	<Name ID="480">
+		<SourceName>usumbura</SourceName>
+		<TargetName ID="1">u xum bu ra</TargetName>
+	</Name>
+	<Name ID="481">
+		<SourceName>uxmal</SourceName>
+		<TargetName ID="1">u sờ man</TargetName>
+	</Name>
+	<Name ID="482">
+		<SourceName>vaganova</SourceName>
+		<TargetName ID="1">va ga nô va</TargetName>
+	</Name>
+	<Name ID="483">
+		<SourceName>vajnonen</SourceName>
+		<TargetName ID="1">vai nô nen</TargetName>
+	</Name>
+	<Name ID="484">
+		<SourceName>vasilij</SourceName>
+		<TargetName ID="1">va xi li</TargetName>
+	</Name>
+	<Name ID="485">
+		<SourceName>veld</SourceName>
+		<TargetName ID="1">ven đơ</TargetName>
+	</Name>
+	<Name ID="486">
+		<SourceName>veronese</SourceName>
+		<TargetName ID="1">vê rô nê giê</TargetName>
+	</Name>
+	<Name ID="487">
+		<SourceName>vespucci</SourceName>
+		<TargetName ID="1">vét sờ bu chi</TargetName>
+	</Name>
+	<Name ID="488">
+		<SourceName>vestris</SourceName>
+		<TargetName ID="1">vét sờ trít</TargetName>
+	</Name>
+	<Name ID="489">
+		<SourceName>vientiane</SourceName>
+		<TargetName ID="1">van san</TargetName>
+	</Name>
+	<Name ID="490">
+		<SourceName>villon</SourceName>
+		<TargetName ID="1">vi ông</TargetName>
+	</Name>
+	<Name ID="491">
+		<SourceName>volkov</SourceName>
+		<TargetName ID="1">von cốp</TargetName>
+	</Name>
+	<Name ID="492">
+		<SourceName>voltaire</SourceName>
+		<TargetName ID="1">vôn te</TargetName>
+	</Name>
+	<Name ID="493">
+		<SourceName>volynskij</SourceName>
+		<TargetName ID="1">vô lin sờ ki</TargetName>
+	</Name>
+	<Name ID="494">
+		<SourceName>voronikhin</SourceName>
+		<TargetName ID="1">vô rô ni khin</TargetName>
+	</Name>
+	<Name ID="495">
+		<SourceName>voronka</SourceName>
+		<TargetName ID="1">vô rôn ca</TargetName>
+	</Name>
+	<Name ID="496">
+		<SourceName>xingu</SourceName>
+		<TargetName ID="1">xin gu</TargetName>
+	</Name>
+	<Name ID="497">
+		<SourceName>yellowstone</SourceName>
+		<TargetName ID="1">de lô sờ tơn</TargetName>
+	</Name>
+	<Name ID="498">
+		<SourceName>yuki</SourceName>
+		<TargetName ID="1">du ki</TargetName>
+	</Name>
+	<Name ID="499">
+		<SourceName>zaire</SourceName>
+		<TargetName ID="1">giai a</TargetName>
+	</Name>
+	<Name ID="500">
+		<SourceName>zaventem</SourceName>
+		<TargetName ID="1">gia ven tem</TargetName>
+	</Name>
+</TransliterationCorpus>

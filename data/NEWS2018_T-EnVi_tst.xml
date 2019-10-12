@@ -1,0 +1,1503 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<TransliterationCorpus CorpusFormat="UTF-8" CorpusID="T-EnVi" CorpusSize="500" CorpusType="Test" NameSource="Western" SourceLang="English" TargetLang="Vietnamese">
+<Name ID="1">
+<SourceName>abdul</SourceName>
+</Name>
+<Name ID="2">
+<SourceName>adam</SourceName>
+</Name>
+<Name ID="3">
+<SourceName>adelaide</SourceName>
+</Name>
+<Name ID="4">
+<SourceName>adler</SourceName>
+</Name>
+<Name ID="5">
+<SourceName>ahaggar</SourceName>
+</Name>
+<Name ID="6">
+<SourceName>aho</SourceName>
+</Name>
+<Name ID="7">
+<SourceName>akihito</SourceName>
+</Name>
+<Name ID="8">
+<SourceName>alaska</SourceName>
+</Name>
+<Name ID="9">
+<SourceName>alger</SourceName>
+</Name>
+<Name ID="10">
+<SourceName>alpes</SourceName>
+</Name>
+<Name ID="11">
+<SourceName>alsace</SourceName>
+</Name>
+<Name ID="12">
+<SourceName>amati</SourceName>
+</Name>
+<Name ID="13">
+<SourceName>amerigo</SourceName>
+</Name>
+<Name ID="14">
+<SourceName>ana</SourceName>
+</Name>
+<Name ID="15">
+<SourceName>antigua</SourceName>
+</Name>
+<Name ID="16">
+<SourceName>antioch</SourceName>
+</Name>
+<Name ID="17">
+<SourceName>aransk</SourceName>
+</Name>
+<Name ID="18">
+<SourceName>arbuzov</SourceName>
+</Name>
+<Name ID="19">
+<SourceName>arequipa</SourceName>
+</Name>
+<Name ID="20">
+<SourceName>arghezi</SourceName>
+</Name>
+<Name ID="21">
+<SourceName>aristophanes</SourceName>
+</Name>
+<Name ID="22">
+<SourceName>arrhenius</SourceName>
+</Name>
+<Name ID="23">
+<SourceName>ashkhabad</SourceName>
+</Name>
+<Name ID="24">
+<SourceName>assyria</SourceName>
+</Name>
+<Name ID="25">
+<SourceName>asvaghosa</SourceName>
+</Name>
+<Name ID="26">
+<SourceName>atoll</SourceName>
+</Name>
+<Name ID="27">
+<SourceName>augsburg</SourceName>
+</Name>
+<Name ID="28">
+<SourceName>avenarius</SourceName>
+</Name>
+<Name ID="29">
+<SourceName>bacolod</SourceName>
+</Name>
+<Name ID="30">
+<SourceName>bactria</SourceName>
+</Name>
+<Name ID="31">
+<SourceName>baekje</SourceName>
+</Name>
+<Name ID="32">
+<SourceName>baeyer</SourceName>
+</Name>
+<Name ID="33">
+<SourceName>baffin</SourceName>
+</Name>
+<Name ID="34">
+<SourceName>baksoko</SourceName>
+</Name>
+<Name ID="35">
+<SourceName>balanchine</SourceName>
+</Name>
+<Name ID="36">
+<SourceName>balkhash</SourceName>
+</Name>
+<Name ID="37">
+<SourceName>banaras</SourceName>
+</Name>
+<Name ID="38">
+<SourceName>banda</SourceName>
+</Name>
+<Name ID="39">
+<SourceName>banjarmassin</SourceName>
+</Name>
+<Name ID="40">
+<SourceName>baran</SourceName>
+</Name>
+<Name ID="41">
+<SourceName>barbusse</SourceName>
+</Name>
+<Name ID="42">
+<SourceName>barentsburg</SourceName>
+</Name>
+<Name ID="43">
+<SourceName>barrault</SourceName>
+</Name>
+<Name ID="44">
+<SourceName>basedow</SourceName>
+</Name>
+<Name ID="45">
+<SourceName>baskerville</SourceName>
+</Name>
+<Name ID="46">
+<SourceName>basov</SourceName>
+</Name>
+<Name ID="47">
+<SourceName>batalov</SourceName>
+</Name>
+<Name ID="48">
+<SourceName>batavia</SourceName>
+</Name>
+<Name ID="49">
+<SourceName>baudelaire</SourceName>
+</Name>
+<Name ID="50">
+<SourceName>beaufort</SourceName>
+</Name>
+<Name ID="51">
+<SourceName>becher</SourceName>
+</Name>
+<Name ID="52">
+<SourceName>behrens</SourceName>
+</Name>
+<Name ID="53">
+<SourceName>belize</SourceName>
+</Name>
+<Name ID="54">
+<SourceName>beljaev</SourceName>
+</Name>
+<Name ID="55">
+<SourceName>beni</SourceName>
+</Name>
+<Name ID="56">
+<SourceName>benua</SourceName>
+</Name>
+<Name ID="57">
+<SourceName>berlioz</SourceName>
+</Name>
+<Name ID="58">
+<SourceName>bertolucci</SourceName>
+</Name>
+<Name ID="59">
+<SourceName>berton</SourceName>
+</Name>
+<Name ID="60">
+<SourceName>berzelius</SourceName>
+</Name>
+<Name ID="61">
+<SourceName>betti</SourceName>
+</Name>
+<Name ID="62">
+<SourceName>bikini</SourceName>
+</Name>
+<Name ID="63">
+<SourceName>bissau</SourceName>
+</Name>
+<Name ID="64">
+<SourceName>blavatskaja</SourceName>
+</Name>
+<Name ID="65">
+<SourceName>boccaccio</SourceName>
+</Name>
+<Name ID="66">
+<SourceName>bohr</SourceName>
+</Name>
+<Name ID="67">
+<SourceName>boisbaudran</SourceName>
+</Name>
+<Name ID="68">
+<SourceName>bondarchuk</SourceName>
+</Name>
+<Name ID="69">
+<SourceName>boole</SourceName>
+</Name>
+<Name ID="70">
+<SourceName>bordeaux</SourceName>
+</Name>
+<Name ID="71">
+<SourceName>borgo</SourceName>
+</Name>
+<Name ID="72">
+<SourceName>borneo</SourceName>
+</Name>
+<Name ID="73">
+<SourceName>bornholm</SourceName>
+</Name>
+<Name ID="74">
+<SourceName>botev</SourceName>
+</Name>
+<Name ID="75">
+<SourceName>bottniska</SourceName>
+</Name>
+<Name ID="76">
+<SourceName>boyi</SourceName>
+</Name>
+<Name ID="77">
+<SourceName>bradford</SourceName>
+</Name>
+<Name ID="78">
+<SourceName>brazillian</SourceName>
+</Name>
+<Name ID="79">
+<SourceName>bresdin</SourceName>
+</Name>
+<Name ID="80">
+<SourceName>bresson</SourceName>
+</Name>
+<Name ID="81">
+<SourceName>brimstone</SourceName>
+</Name>
+<Name ID="82">
+<SourceName>brown</SourceName>
+</Name>
+<Name ID="83">
+<SourceName>browning</SourceName>
+</Name>
+<Name ID="84">
+<SourceName>brunet</SourceName>
+</Name>
+<Name ID="85">
+<SourceName>brunete</SourceName>
+</Name>
+<Name ID="86">
+<SourceName>brutus</SourceName>
+</Name>
+<Name ID="87">
+<SourceName>buda</SourceName>
+</Name>
+<Name ID="88">
+<SourceName>burnham</SourceName>
+</Name>
+<Name ID="89">
+<SourceName>bursa</SourceName>
+</Name>
+<Name ID="90">
+<SourceName>bururi</SourceName>
+</Name>
+<Name ID="91">
+<SourceName>busoni</SourceName>
+</Name>
+<Name ID="92">
+<SourceName>cadix</SourceName>
+</Name>
+<Name ID="93">
+<SourceName>calapan</SourceName>
+</Name>
+<Name ID="94">
+<SourceName>caldas</SourceName>
+</Name>
+<Name ID="95">
+<SourceName>caledonian</SourceName>
+</Name>
+<Name ID="96">
+<SourceName>calmette</SourceName>
+</Name>
+<Name ID="97">
+<SourceName>candolle</SourceName>
+</Name>
+<Name ID="98">
+<SourceName>cannizzaro</SourceName>
+</Name>
+<Name ID="99">
+<SourceName>carbonnier</SourceName>
+</Name>
+<Name ID="100">
+<SourceName>caribbean</SourceName>
+</Name>
+<Name ID="101">
+<SourceName>carracci</SourceName>
+</Name>
+<Name ID="102">
+<SourceName>carriacou</SourceName>
+</Name>
+<Name ID="103">
+<SourceName>casa</SourceName>
+</Name>
+<Name ID="104">
+<SourceName>casbah</SourceName>
+</Name>
+<Name ID="105">
+<SourceName>cassius</SourceName>
+</Name>
+<Name ID="106">
+<SourceName>chagos</SourceName>
+</Name>
+<Name ID="107">
+<SourceName>chaguanas</SourceName>
+</Name>
+<Name ID="108">
+<SourceName>chain</SourceName>
+</Name>
+<Name ID="109">
+<SourceName>champassak</SourceName>
+</Name>
+<Name ID="110">
+<SourceName>chanthaburi</SourceName>
+</Name>
+<Name ID="111">
+<SourceName>charlestown</SourceName>
+</Name>
+<Name ID="112">
+<SourceName>cherapunji</SourceName>
+</Name>
+<Name ID="113">
+<SourceName>chnang</SourceName>
+</Name>
+<Name ID="114">
+<SourceName>christchurch</SourceName>
+</Name>
+<Name ID="115">
+<SourceName>colombo</SourceName>
+</Name>
+<Name ID="116">
+<SourceName>comore</SourceName>
+</Name>
+<Name ID="117">
+<SourceName>comte</SourceName>
+</Name>
+<Name ID="118">
+<SourceName>connecticut</SourceName>
+</Name>
+<Name ID="119">
+<SourceName>cordillera</SourceName>
+</Name>
+<Name ID="120">
+<SourceName>coster</SourceName>
+</Name>
+<Name ID="121">
+<SourceName>crawford</SourceName>
+</Name>
+<Name ID="122">
+<SourceName>crookes</SourceName>
+</Name>
+<Name ID="123">
+<SourceName>edison</SourceName>
+</Name>
+<Name ID="124">
+<SourceName>ekeberg</SourceName>
+</Name>
+<Name ID="125">
+<SourceName>el</SourceName>
+</Name>
+<Name ID="126">
+<SourceName>empiricus</SourceName>
+</Name>
+<Name ID="127">
+<SourceName>erfurt</SourceName>
+</Name>
+<Name ID="128">
+<SourceName>ermolova</SourceName>
+</Name>
+<Name ID="129">
+<SourceName>eschyle</SourceName>
+</Name>
+<Name ID="130">
+<SourceName>eschylle</SourceName>
+</Name>
+<Name ID="131">
+<SourceName>etna</SourceName>
+</Name>
+<Name ID="132">
+<SourceName>ettingshausen</SourceName>
+</Name>
+<Name ID="133">
+<SourceName>faltings</SourceName>
+</Name>
+<Name ID="134">
+<SourceName>fayol</SourceName>
+</Name>
+<Name ID="135">
+<SourceName>fdorov</SourceName>
+</Name>
+<Name ID="136">
+<SourceName>febvre</SourceName>
+</Name>
+<Name ID="137">
+<SourceName>fechner</SourceName>
+</Name>
+<Name ID="138">
+<SourceName>fergana</SourceName>
+</Name>
+<Name ID="139">
+<SourceName>fiji</SourceName>
+</Name>
+<Name ID="140">
+<SourceName>fiore</SourceName>
+</Name>
+<Name ID="141">
+<SourceName>flexner</SourceName>
+</Name>
+<Name ID="142">
+<SourceName>florentin</SourceName>
+</Name>
+<Name ID="143">
+<SourceName>ford</SourceName>
+</Name>
+<Name ID="144">
+<SourceName>formentera</SourceName>
+</Name>
+<Name ID="145">
+<SourceName>foucault</SourceName>
+</Name>
+<Name ID="146">
+<SourceName>fra</SourceName>
+</Name>
+<Name ID="147">
+<SourceName>frankland</SourceName>
+</Name>
+<Name ID="148">
+<SourceName>freud</SourceName>
+</Name>
+<Name ID="149">
+<SourceName>friedrich</SourceName>
+</Name>
+<Name ID="150">
+<SourceName>fujita</SourceName>
+</Name>
+<Name ID="151">
+<SourceName>futabatei</SourceName>
+</Name>
+<Name ID="152">
+<SourceName>galenus</SourceName>
+</Name>
+<Name ID="153">
+<SourceName>gallia</SourceName>
+</Name>
+<Name ID="154">
+<SourceName>galton</SourceName>
+</Name>
+<Name ID="155">
+<SourceName>gandak</SourceName>
+</Name>
+<Name ID="156">
+<SourceName>gardel</SourceName>
+</Name>
+<Name ID="157">
+<SourceName>gay</SourceName>
+</Name>
+<Name ID="158">
+<SourceName>gaza</SourceName>
+</Name>
+<Name ID="159">
+<SourceName>gennegau</SourceName>
+</Name>
+<Name ID="160">
+<SourceName>georgetown</SourceName>
+</Name>
+<Name ID="161">
+<SourceName>german</SourceName>
+</Name>
+<Name ID="162">
+<SourceName>ghiberti</SourceName>
+</Name>
+<Name ID="163">
+<SourceName>giacometti</SourceName>
+</Name>
+<Name ID="164">
+<SourceName>giselle</SourceName>
+</Name>
+<Name ID="165">
+<SourceName>gizo</SourceName>
+</Name>
+<Name ID="166">
+<SourceName>gobi</SourceName>
+</Name>
+<Name ID="167">
+<SourceName>golan</SourceName>
+</Name>
+<Name ID="168">
+<SourceName>gomel</SourceName>
+</Name>
+<Name ID="169">
+<SourceName>gotha</SourceName>
+</Name>
+<Name ID="170">
+<SourceName>gozzi</SourceName>
+</Name>
+<Name ID="171">
+<SourceName>graz</SourceName>
+</Name>
+<Name ID="172">
+<SourceName>grignard</SourceName>
+</Name>
+<Name ID="173">
+<SourceName>grigorescu</SourceName>
+</Name>
+<Name ID="174">
+<SourceName>grisons</SourceName>
+</Name>
+<Name ID="175">
+<SourceName>groneff</SourceName>
+</Name>
+<Name ID="176">
+<SourceName>guadeloupe</SourceName>
+</Name>
+<Name ID="177">
+<SourceName>guadiana</SourceName>
+</Name>
+<Name ID="178">
+<SourceName>guayas</SourceName>
+</Name>
+<Name ID="179">
+<SourceName>guinan</SourceName>
+</Name>
+<Name ID="180">
+<SourceName>gulick</SourceName>
+</Name>
+<Name ID="181">
+<SourceName>gumplowicz</SourceName>
+</Name>
+<Name ID="182">
+<SourceName>habreiter</SourceName>
+</Name>
+<Name ID="183">
+<SourceName>haldane</SourceName>
+</Name>
+<Name ID="184">
+<SourceName>hamersley</SourceName>
+</Name>
+<Name ID="185">
+<SourceName>hamrun</SourceName>
+</Name>
+<Name ID="186">
+<SourceName>hannibal</SourceName>
+</Name>
+<Name ID="187">
+<SourceName>hanson</SourceName>
+</Name>
+<Name ID="188">
+<SourceName>haobu</SourceName>
+</Name>
+<Name ID="189">
+<SourceName>hapsburg</SourceName>
+</Name>
+<Name ID="190">
+<SourceName>heine</SourceName>
+</Name>
+<Name ID="191">
+<SourceName>higuchi</SourceName>
+</Name>
+<Name ID="192">
+<SourceName>hiroshige</SourceName>
+</Name>
+<Name ID="193">
+<SourceName>hispaniola</SourceName>
+</Name>
+<Name ID="194">
+<SourceName>hissarlik</SourceName>
+</Name>
+<Name ID="195">
+<SourceName>hitler</SourceName>
+</Name>
+<Name ID="196">
+<SourceName>hoff</SourceName>
+</Name>
+<Name ID="197">
+<SourceName>hogarth</SourceName>
+</Name>
+<Name ID="198">
+<SourceName>holon</SourceName>
+</Name>
+<Name ID="199">
+<SourceName>homo</SourceName>
+</Name>
+<Name ID="200">
+<SourceName>houdon</SourceName>
+</Name>
+<Name ID="201">
+<SourceName>huber</SourceName>
+</Name>
+<Name ID="202">
+<SourceName>hunt</SourceName>
+</Name>
+<Name ID="203">
+<SourceName>ider</SourceName>
+</Name>
+<Name ID="204">
+<SourceName>ike</SourceName>
+</Name>
+<Name ID="205">
+<SourceName>indigirka</SourceName>
+</Name>
+<Name ID="206">
+<SourceName>ishim</SourceName>
+</Name>
+<Name ID="207">
+<SourceName>israel</SourceName>
+</Name>
+<Name ID="208">
+<SourceName>iwaszkiewicz</SourceName>
+</Name>
+<Name ID="209">
+<SourceName>jane</SourceName>
+</Name>
+<Name ID="210">
+<SourceName>jean</SourceName>
+</Name>
+<Name ID="211">
+<SourceName>jeanne</SourceName>
+</Name>
+<Name ID="212">
+<SourceName>jiddah</SourceName>
+</Name>
+<Name ID="213">
+<SourceName>jukovskij</SourceName>
+</Name>
+<Name ID="214">
+<SourceName>jura</SourceName>
+</Name>
+<Name ID="215">
+<SourceName>jutlan</SourceName>
+</Name>
+<Name ID="216">
+<SourceName>jylland</SourceName>
+</Name>
+<Name ID="217">
+<SourceName>kaifu</SourceName>
+</Name>
+<Name ID="218">
+<SourceName>kalenjin</SourceName>
+</Name>
+<Name ID="219">
+<SourceName>kandalaksha</SourceName>
+</Name>
+<Name ID="220">
+<SourceName>kany</SourceName>
+</Name>
+<Name ID="221">
+<SourceName>karadeniz</SourceName>
+</Name>
+<Name ID="222">
+<SourceName>karakul</SourceName>
+</Name>
+<Name ID="223">
+<SourceName>karatal</SourceName>
+</Name>
+<Name ID="224">
+<SourceName>karmen</SourceName>
+</Name>
+<Name ID="225">
+<SourceName>kashgar</SourceName>
+</Name>
+<Name ID="226">
+<SourceName>katmai</SourceName>
+</Name>
+<Name ID="227">
+<SourceName>keldysh</SourceName>
+</Name>
+<Name ID="228">
+<SourceName>kennedy</SourceName>
+</Name>
+<Name ID="229">
+<SourceName>keren</SourceName>
+</Name>
+<Name ID="230">
+<SourceName>khamtay</SourceName>
+</Name>
+<Name ID="231">
+<SourceName>kheops</SourceName>
+</Name>
+<Name ID="232">
+<SourceName>kikutake</SourceName>
+</Name>
+<Name ID="233">
+<SourceName>kil</SourceName>
+</Name>
+<Name ID="234">
+<SourceName>kings</SourceName>
+</Name>
+<Name ID="235">
+<SourceName>klein</SourceName>
+</Name>
+<Name ID="236">
+<SourceName>kleinhans</SourceName>
+</Name>
+<Name ID="237">
+<SourceName>kollwitz</SourceName>
+</Name>
+<Name ID="238">
+<SourceName>kolomenskij</SourceName>
+</Name>
+<Name ID="239">
+<SourceName>konoe</SourceName>
+</Name>
+<Name ID="240">
+<SourceName>kosciusko</SourceName>
+</Name>
+<Name ID="241">
+<SourceName>kracheh</SourceName>
+</Name>
+<Name ID="242">
+<SourceName>kula</SourceName>
+</Name>
+<Name ID="243">
+<SourceName>kumanovo</SourceName>
+</Name>
+<Name ID="244">
+<SourceName>kursk</SourceName>
+</Name>
+<Name ID="245">
+<SourceName>langenderer</SourceName>
+</Name>
+<Name ID="246">
+<SourceName>latouche</SourceName>
+</Name>
+<Name ID="247">
+<SourceName>latvijas</SourceName>
+</Name>
+<Name ID="248">
+<SourceName>laurent</SourceName>
+</Name>
+<Name ID="249">
+<SourceName>lavejoy</SourceName>
+</Name>
+<Name ID="250">
+<SourceName>lecher</SourceName>
+</Name>
+<Name ID="251">
+<SourceName>leeds</SourceName>
+</Name>
+<Name ID="252">
+<SourceName>legendre</SourceName>
+</Name>
+<Name ID="253">
+<SourceName>leibniz</SourceName>
+</Name>
+<Name ID="254">
+<SourceName>leino</SourceName>
+</Name>
+<Name ID="255">
+<SourceName>lemaitre</SourceName>
+</Name>
+<Name ID="256">
+<SourceName>lenc</SourceName>
+</Name>
+<Name ID="257">
+<SourceName>lenin</SourceName>
+</Name>
+<Name ID="258">
+<SourceName>lesbia</SourceName>
+</Name>
+<Name ID="259">
+<SourceName>lesotho</SourceName>
+</Name>
+<Name ID="260">
+<SourceName>levitan</SourceName>
+</Name>
+<Name ID="261">
+<SourceName>leyden</SourceName>
+</Name>
+<Name ID="262">
+<SourceName>leydig</SourceName>
+</Name>
+<Name ID="263">
+<SourceName>lichtenstein</SourceName>
+</Name>
+<Name ID="264">
+<SourceName>lie</SourceName>
+</Name>
+<Name ID="265">
+<SourceName>liebig</SourceName>
+</Name>
+<Name ID="266">
+<SourceName>liotard</SourceName>
+</Name>
+<Name ID="267">
+<SourceName>lombardia</SourceName>
+</Name>
+<Name ID="268">
+<SourceName>longyear</SourceName>
+</Name>
+<Name ID="269">
+<SourceName>loren</SourceName>
+</Name>
+<Name ID="270">
+<SourceName>louis</SourceName>
+</Name>
+<Name ID="271">
+<SourceName>lulea</SourceName>
+</Name>
+<Name ID="272">
+<SourceName>luqsor</SourceName>
+</Name>
+<Name ID="273">
+<SourceName>macao</SourceName>
+</Name>
+<Name ID="274">
+<SourceName>machala</SourceName>
+</Name>
+<Name ID="275">
+<SourceName>mackenzie</SourceName>
+</Name>
+<Name ID="276">
+<SourceName>madhya</SourceName>
+</Name>
+<Name ID="277">
+<SourceName>magdeburg</SourceName>
+</Name>
+<Name ID="278">
+<SourceName>maine</SourceName>
+</Name>
+<Name ID="279">
+<SourceName>majuro</SourceName>
+</Name>
+<Name ID="280">
+<SourceName>maksimova</SourceName>
+</Name>
+<Name ID="281">
+<SourceName>maljavin</SourceName>
+</Name>
+<Name ID="282">
+<SourceName>malleret</SourceName>
+</Name>
+<Name ID="283">
+<SourceName>malte</SourceName>
+</Name>
+<Name ID="284">
+<SourceName>manhttan</SourceName>
+</Name>
+<Name ID="285">
+<SourceName>mansart</SourceName>
+</Name>
+<Name ID="286">
+<SourceName>mansuy</SourceName>
+</Name>
+<Name ID="287">
+<SourceName>mantalingajan</SourceName>
+</Name>
+<Name ID="288">
+<SourceName>manzoni</SourceName>
+</Name>
+<Name ID="289">
+<SourceName>marathon</SourceName>
+</Name>
+<Name ID="290">
+<SourceName>maria</SourceName>
+</Name>
+<Name ID="291">
+<SourceName>marie</SourceName>
+</Name>
+<Name ID="292">
+<SourceName>markov</SourceName>
+</Name>
+<Name ID="293">
+<SourceName>markovnikov</SourceName>
+</Name>
+<Name ID="294">
+<SourceName>maroni</SourceName>
+</Name>
+<Name ID="295">
+<SourceName>marot</SourceName>
+</Name>
+<Name ID="296">
+<SourceName>marshall</SourceName>
+</Name>
+<Name ID="297">
+<SourceName>martinet</SourceName>
+</Name>
+<Name ID="298">
+<SourceName>masaccio</SourceName>
+</Name>
+<Name ID="299">
+<SourceName>masbate</SourceName>
+</Name>
+<Name ID="300">
+<SourceName>mathesius</SourceName>
+</Name>
+<Name ID="301">
+<SourceName>mauritania</SourceName>
+</Name>
+<Name ID="302">
+<SourceName>maxim</SourceName>
+</Name>
+<Name ID="303">
+<SourceName>mayi</SourceName>
+</Name>
+<Name ID="304">
+<SourceName>mayotte</SourceName>
+</Name>
+<Name ID="305">
+<SourceName>medjerda</SourceName>
+</Name>
+<Name ID="306">
+<SourceName>melilla</SourceName>
+</Name>
+<Name ID="307">
+<SourceName>memphis</SourceName>
+</Name>
+<Name ID="308">
+<SourceName>mendel</SourceName>
+</Name>
+<Name ID="309">
+<SourceName>menger</SourceName>
+</Name>
+<Name ID="310">
+<SourceName>meshcherskij</SourceName>
+</Name>
+<Name ID="311">
+<SourceName>michell</SourceName>
+</Name>
+<Name ID="312">
+<SourceName>mikulov</SourceName>
+</Name>
+<Name ID="313">
+<SourceName>military</SourceName>
+</Name>
+<Name ID="314">
+<SourceName>miller</SourceName>
+</Name>
+<Name ID="315">
+<SourceName>mindoro</SourceName>
+</Name>
+<Name ID="316">
+<SourceName>mingechaur</SourceName>
+</Name>
+<Name ID="317">
+<SourceName>mitidja</SourceName>
+</Name>
+<Name ID="318">
+<SourceName>mombasa</SourceName>
+</Name>
+<Name ID="319">
+<SourceName>monguillot</SourceName>
+</Name>
+<Name ID="320">
+<SourceName>montmorin</SourceName>
+</Name>
+<Name ID="321">
+<SourceName>montreal</SourceName>
+</Name>
+<Name ID="322">
+<SourceName>moore</SourceName>
+</Name>
+<Name ID="323">
+<SourceName>mosander</SourceName>
+</Name>
+<Name ID="324">
+<SourceName>mossi</SourceName>
+</Name>
+<Name ID="325">
+<SourceName>mosul</SourceName>
+</Name>
+<Name ID="326">
+<SourceName>mravinskij</SourceName>
+</Name>
+<Name ID="327">
+<SourceName>mulliken</SourceName>
+</Name>
+<Name ID="328">
+<SourceName>munch</SourceName>
+</Name>
+<Name ID="329">
+<SourceName>murasaki</SourceName>
+</Name>
+<Name ID="330">
+<SourceName>nakuru</SourceName>
+</Name>
+<Name ID="331">
+<SourceName>namara</SourceName>
+</Name>
+<Name ID="332">
+<SourceName>namibe</SourceName>
+</Name>
+<Name ID="333">
+<SourceName>napravnik</SourceName>
+</Name>
+<Name ID="334">
+<SourceName>nasan</SourceName>
+</Name>
+<Name ID="335">
+<SourceName>ndola</SourceName>
+</Name>
+<Name ID="336">
+<SourceName>nehru</SourceName>
+</Name>
+<Name ID="337">
+<SourceName>nernst</SourceName>
+</Name>
+<Name ID="338">
+<SourceName>neusiedler</SourceName>
+</Name>
+<Name ID="339">
+<SourceName>neva</SourceName>
+</Name>
+<Name ID="340">
+<SourceName>new</SourceName>
+</Name>
+<Name ID="341">
+<SourceName>ney</SourceName>
+</Name>
+<Name ID="342">
+<SourceName>nice</SourceName>
+</Name>
+<Name ID="343">
+<SourceName>nicolaas</SourceName>
+</Name>
+<Name ID="344">
+<SourceName>nietzsche</SourceName>
+</Name>
+<Name ID="345">
+<SourceName>norgay</SourceName>
+</Name>
+<Name ID="346">
+<SourceName>nouakchott</SourceName>
+</Name>
+<Name ID="347">
+<SourceName>ombai</SourceName>
+</Name>
+<Name ID="348">
+<SourceName>orbigny</SourceName>
+</Name>
+<Name ID="349">
+<SourceName>orkhon</SourceName>
+</Name>
+<Name ID="350">
+<SourceName>paganini</SourceName>
+</Name>
+<Name ID="351">
+<SourceName>palembang</SourceName>
+</Name>
+<Name ID="352">
+<SourceName>pantanal</SourceName>
+</Name>
+<Name ID="353">
+<SourceName>parc</SourceName>
+</Name>
+<Name ID="354">
+<SourceName>pathet</SourceName>
+</Name>
+<Name ID="355">
+<SourceName>peak</SourceName>
+</Name>
+<Name ID="356">
+<SourceName>pedro</SourceName>
+</Name>
+<Name ID="357">
+<SourceName>perey</SourceName>
+</Name>
+<Name ID="358">
+<SourceName>perutz</SourceName>
+</Name>
+<Name ID="359">
+<SourceName>pest</SourceName>
+</Name>
+<Name ID="360">
+<SourceName>petrodvorec</SourceName>
+</Name>
+<Name ID="361">
+<SourceName>petropavlovsk</SourceName>
+</Name>
+<Name ID="362">
+<SourceName>phya</SourceName>
+</Name>
+<Name ID="363">
+<SourceName>pi</SourceName>
+</Name>
+<Name ID="364">
+<SourceName>pictures</SourceName>
+</Name>
+<Name ID="365">
+<SourceName>piedmont</SourceName>
+</Name>
+<Name ID="366">
+<SourceName>pigrim</SourceName>
+</Name>
+<Name ID="367">
+<SourceName>piskarv</SourceName>
+</Name>
+<Name ID="368">
+<SourceName>pjandzh</SourceName>
+</Name>
+<Name ID="369">
+<SourceName>plautus</SourceName>
+</Name>
+<Name ID="370">
+<SourceName>pletnv</SourceName>
+</Name>
+<Name ID="371">
+<SourceName>poiseuille</SourceName>
+</Name>
+<Name ID="372">
+<SourceName>poisson</SourceName>
+</Name>
+<Name ID="373">
+<SourceName>polje</SourceName>
+</Name>
+<Name ID="374">
+<SourceName>polo</SourceName>
+</Name>
+<Name ID="375">
+<SourceName>poltava</SourceName>
+</Name>
+<Name ID="376">
+<SourceName>polynesien</SourceName>
+</Name>
+<Name ID="377">
+<SourceName>pong</SourceName>
+</Name>
+<Name ID="378">
+<SourceName>pope</SourceName>
+</Name>
+<Name ID="379">
+<SourceName>potsdam</SourceName>
+</Name>
+<Name ID="380">
+<SourceName>primorskij</SourceName>
+</Name>
+<Name ID="381">
+<SourceName>princevy</SourceName>
+</Name>
+<Name ID="382">
+<SourceName>pyrrhon</SourceName>
+</Name>
+<Name ID="383">
+<SourceName>rabaul</SourceName>
+</Name>
+<Name ID="384">
+<SourceName>rajanubhab</SourceName>
+</Name>
+<Name ID="385">
+<SourceName>ralaimongo</SourceName>
+</Name>
+<Name ID="386">
+<SourceName>ramsay</SourceName>
+</Name>
+<Name ID="387">
+<SourceName>ramus</SourceName>
+</Name>
+<Name ID="388">
+<SourceName>ranvier</SourceName>
+</Name>
+<Name ID="389">
+<SourceName>raoult</SourceName>
+</Name>
+<Name ID="390">
+<SourceName>reagan</SourceName>
+</Name>
+<Name ID="391">
+<SourceName>recife</SourceName>
+</Name>
+<Name ID="392">
+<SourceName>reclus</SourceName>
+</Name>
+<Name ID="393">
+<SourceName>reidy</SourceName>
+</Name>
+<Name ID="394">
+<SourceName>respighi</SourceName>
+</Name>
+<Name ID="395">
+<SourceName>reykjavik</SourceName>
+</Name>
+<Name ID="396">
+<SourceName>reymont</SourceName>
+</Name>
+<Name ID="397">
+<SourceName>reynolds</SourceName>
+</Name>
+<Name ID="398">
+<SourceName>richmond</SourceName>
+</Name>
+<Name ID="399">
+<SourceName>rimskij</SourceName>
+</Name>
+<Name ID="400">
+<SourceName>riparia</SourceName>
+</Name>
+<Name ID="401">
+<SourceName>riviera</SourceName>
+</Name>
+<Name ID="402">
+<SourceName>rizal</SourceName>
+</Name>
+<Name ID="403">
+<SourceName>robert</SourceName>
+</Name>
+<Name ID="404">
+<SourceName>robertson</SourceName>
+</Name>
+<Name ID="405">
+<SourceName>rodenbach</SourceName>
+</Name>
+<Name ID="406">
+<SourceName>roma</SourceName>
+</Name>
+<Name ID="407">
+<SourceName>roraima</SourceName>
+</Name>
+<Name ID="408">
+<SourceName>rosario</SourceName>
+</Name>
+<Name ID="409">
+<SourceName>roscoe</SourceName>
+</Name>
+<Name ID="410">
+<SourceName>rossini</SourceName>
+</Name>
+<Name ID="411">
+<SourceName>rostow</SourceName>
+</Name>
+<Name ID="412">
+<SourceName>rotbart</SourceName>
+</Name>
+<Name ID="413">
+<SourceName>roxas</SourceName>
+</Name>
+<Name ID="414">
+<SourceName>ruaha</SourceName>
+</Name>
+<Name ID="415">
+<SourceName>rudolf</SourceName>
+</Name>
+<Name ID="416">
+<SourceName>rugen</SourceName>
+</Name>
+<Name ID="417">
+<SourceName>ruhr</SourceName>
+</Name>
+<Name ID="418">
+<SourceName>schelde</SourceName>
+</Name>
+<Name ID="419">
+<SourceName>schleiermacher</SourceName>
+</Name>
+<Name ID="420">
+<SourceName>schlick</SourceName>
+</Name>
+<Name ID="421">
+<SourceName>schlieffen</SourceName>
+</Name>
+<Name ID="422">
+<SourceName>schmitt</SourceName>
+</Name>
+<Name ID="423">
+<SourceName>schneider</SourceName>
+</Name>
+<Name ID="424">
+<SourceName>schoelcher</SourceName>
+</Name>
+<Name ID="425">
+<SourceName>schopenhauer</SourceName>
+</Name>
+<Name ID="426">
+<SourceName>shaljapin</SourceName>
+</Name>
+<Name ID="427">
+<SourceName>shaporin</SourceName>
+</Name>
+<Name ID="428">
+<SourceName>shockley</SourceName>
+</Name>
+<Name ID="429">
+<SourceName>shogun</SourceName>
+</Name>
+<Name ID="430">
+<SourceName>shushenskaja</SourceName>
+</Name>
+<Name ID="431">
+<SourceName>sommer</SourceName>
+</Name>
+<Name ID="432">
+<SourceName>stockhausen</SourceName>
+</Name>
+<Name ID="433">
+<SourceName>strassman</SourceName>
+</Name>
+<Name ID="434">
+<SourceName>tabriz</SourceName>
+</Name>
+<Name ID="435">
+<SourceName>taegu</SourceName>
+</Name>
+<Name ID="436">
+<SourceName>taft</SourceName>
+</Name>
+<Name ID="437">
+<SourceName>tahuantinsuyu</SourceName>
+</Name>
+<Name ID="438">
+<SourceName>tajga</SourceName>
+</Name>
+<Name ID="439">
+<SourceName>tanjungperiuk</SourceName>
+</Name>
+<Name ID="440">
+<SourceName>tarakan</SourceName>
+</Name>
+<Name ID="441">
+<SourceName>tartini</SourceName>
+</Name>
+<Name ID="442">
+<SourceName>tasmania</SourceName>
+</Name>
+<Name ID="443">
+<SourceName>tasso</SourceName>
+</Name>
+<Name ID="444">
+<SourceName>teotepec</SourceName>
+</Name>
+<Name ID="445">
+<SourceName>thackeray</SourceName>
+</Name>
+<Name ID="446">
+<SourceName>thalia</SourceName>
+</Name>
+<Name ID="447">
+<SourceName>theokritos</SourceName>
+</Name>
+<Name ID="448">
+<SourceName>thomsen</SourceName>
+</Name>
+<Name ID="449">
+<SourceName>tiago</SourceName>
+</Name>
+<Name ID="450">
+<SourceName>ting</SourceName>
+</Name>
+<Name ID="451">
+<SourceName>tiselius</SourceName>
+</Name>
+<Name ID="452">
+<SourceName>titus</SourceName>
+</Name>
+<Name ID="453">
+<SourceName>togolaise</SourceName>
+</Name>
+<Name ID="454">
+<SourceName>tokarev</SourceName>
+</Name>
+<Name ID="455">
+<SourceName>tokugawa</SourceName>
+</Name>
+<Name ID="456">
+<SourceName>tomori</SourceName>
+</Name>
+<Name ID="457">
+<SourceName>tompo</SourceName>
+</Name>
+<Name ID="458">
+<SourceName>toros</SourceName>
+</Name>
+<Name ID="459">
+<SourceName>toscanini</SourceName>
+</Name>
+<Name ID="460">
+<SourceName>transylvanie</SourceName>
+</Name>
+<Name ID="461">
+<SourceName>tripoli</SourceName>
+</Name>
+<Name ID="462">
+<SourceName>tristan</SourceName>
+</Name>
+<Name ID="463">
+<SourceName>trois</SourceName>
+</Name>
+<Name ID="464">
+<SourceName>tronchet</SourceName>
+</Name>
+<Name ID="465">
+<SourceName>troyes</SourceName>
+</Name>
+<Name ID="466">
+<SourceName>tularosa</SourceName>
+</Name>
+<Name ID="467">
+<SourceName>tumbol</SourceName>
+</Name>
+<Name ID="468">
+<SourceName>tunis</SourceName>
+</Name>
+<Name ID="469">
+<SourceName>tunisie</SourceName>
+</Name>
+<Name ID="470">
+<SourceName>turkestan</SourceName>
+</Name>
+<Name ID="471">
+<SourceName>tutong</SourceName>
+</Name>
+<Name ID="472">
+<SourceName>tutulia</SourceName>
+</Name>
+<Name ID="473">
+<SourceName>tyndall</SourceName>
+</Name>
+<Name ID="474">
+<SourceName>ukraina</SourceName>
+</Name>
+<Name ID="475">
+<SourceName>ulug</SourceName>
+</Name>
+<Name ID="476">
+<SourceName>ural</SourceName>
+</Name>
+<Name ID="477">
+<SourceName>urgench</SourceName>
+</Name>
+<Name ID="478">
+<SourceName>usa</SourceName>
+</Name>
+<Name ID="479">
+<SourceName>ushuaia</SourceName>
+</Name>
+<Name ID="480">
+<SourceName>ussuri</SourceName>
+</Name>
+<Name ID="481">
+<SourceName>utrecht</SourceName>
+</Name>
+<Name ID="482">
+<SourceName>vaal</SourceName>
+</Name>
+<Name ID="483">
+<SourceName>vakhtangov</SourceName>
+</Name>
+<Name ID="484">
+<SourceName>varlamov</SourceName>
+</Name>
+<Name ID="485">
+<SourceName>varro</SourceName>
+</Name>
+<Name ID="486">
+<SourceName>venant</SourceName>
+</Name>
+<Name ID="487">
+<SourceName>verkhojansk</SourceName>
+</Name>
+<Name ID="488">
+<SourceName>vesnin</SourceName>
+</Name>
+<Name ID="489">
+<SourceName>vichada</SourceName>
+</Name>
+<Name ID="490">
+<SourceName>vincente</SourceName>
+</Name>
+<Name ID="491">
+<SourceName>vishnu</SourceName>
+</Name>
+<Name ID="492">
+<SourceName>vltava</SourceName>
+</Name>
+<Name ID="493">
+<SourceName>vnern</SourceName>
+</Name>
+<Name ID="494">
+<SourceName>xlovak</SourceName>
+</Name>
+<Name ID="495">
+<SourceName>yokohama</SourceName>
+</Name>
+<Name ID="496">
+<SourceName>yucatan</SourceName>
+</Name>
+<Name ID="497">
+<SourceName>zadkine</SourceName>
+</Name>
+<Name ID="498">
+<SourceName>zama</SourceName>
+</Name>
+<Name ID="499">
+<SourceName>zener</SourceName>
+</Name>
+<Name ID="500">
+<SourceName>zernike</SourceName>
+</Name>
+</TransliterationCorpus>
