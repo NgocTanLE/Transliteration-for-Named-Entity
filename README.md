@@ -15,6 +15,11 @@ ACL 2018 >> Named Entity Workshop datasets : http://workshop.colips.org/news2018
 * Sequitur-G2P (Bisani et Ney, 2008) : https://www-i6.informatik.rwth-aachen.de/web/Software/g2p.html <br />
 * Moses (Koehn, 2009) : http://www.statmt.org/moses_steps.html 
 
+### Demonstration of Sequitur-G2P for TALN 2017, France
+Link: https://drive.google.com/open?id=1ARpJa0-MXLEhZTf4iCA_k1HEUxmF05fg
+
+Ngoc Tan Le, Fatiha Sadat, Lucie Ménard. Translittération automatique pour une paire de langues peu dotée. 24ème Traitement Automatique des Langues Naturelles, Orléans, France, 2017.
+
 ### Cite our Papers
 Ngoc Tan Le, Fatiha Sadat, Lucie Ménard, Dien Dinh. Low Resource Machine Transliteration Using Recurrent Neural Network. In Proceedings of ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), ISSN 2375-4699, Inf. Process. 18(2): 13:1-13:14 (2019).
 
