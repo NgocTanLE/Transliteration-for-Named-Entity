@@ -18,6 +18,7 @@ ACL 2018 >> Named Entity Workshop datasets : http://workshop.colips.org/news2018
 ### Demonstration of Sequitur-G2P for TALN 2017, France
 Link: https://drive.google.com/open?id=1ARpJa0-MXLEhZTf4iCA_k1HEUxmF05fg
 
+Citation: 
 Ngoc Tan Le, Fatiha Sadat, Lucie Ménard. Translittération automatique pour une paire de langues peu dotée. 24ème Traitement Automatique des Langues Naturelles, Orléans, France, 2017.
 
 ### Cite our Papers
