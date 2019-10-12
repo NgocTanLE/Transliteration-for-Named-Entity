@@ -1,0 +1,164 @@
+ff_report_news_2018
+
+===========================================================
+Auteur : Tan Le
+Date de création: vendredi 27 avril 2018
+Date de modification: mardi 08 mai 2018
+Objectif: Tham gia shared task cua Named Entities Workshop - NEWS 2018 - ACL
+===========================================================
+
+Buoc 0 : Rut trich tu tap tin XML ra cac tap tin training, dev, test tuong ung.
+>> Cau lenh : 
+letan@letan:~/Documents/0_ACL_News_sharedTask_2018$ python 0_lire_training_dev_data_xml.py 
+
+Buoc 1 - Tien xu ly :
+training, dev, test [extensions: en, vi] splitted by character level, lowercase, remove clitics...
+>> Cau lenh:
+cd /home/letan/Documents/nmt-keras/examples/E2V4g2p
+python 1_normalisation_transliteration_corpus_lnt.py
+
+Buoc 2 - Huan luyen nmt-keras :
+Input : embeddings
+Output : models
+
+Buoc 3 - Dich thuat transliteration from test.en into out.test.vi :
+letan@letan:~/Documents/nmt-keras$ python sample_ensemble.py --models trained_models/E2V4g2p_envi_AttentionRNNEncoderDecoder_src_emb_32_bidir_True_enc_LSTM_64_dec_ConditionalLSTM_64_deepout_linear_trg_emb_32_Adam_0.001/epoch_43 --dataset datasets/Dataset_E2V4g2p_envi.pkl --text examples/E2V4g2p/test.en --dest examples/E2V4g2p/out.test.vi
+
+# n-best == beam search size (cf. config.py)
+Cau lenh: 
+letan@letan:~/Documents/nmt-keras$ python sample_ensemble.py --models trained_models/E2V4g2p_envi_AttentionRNNEncoderDecoder_src_emb_32_bidir_True_enc_LSTM_64_dec_ConditionalLSTM_64_deepout_linear_trg_emb_32_Adam_0.001/epoch_43 --dataset datasets/Dataset_E2V4g2p_envi.pkl --text examples/E2V4g2p/test.en --dest examples/E2V4g2p/n_best.out.test.vi -n 
+
+# cho ra 2 outputs tap tin:
+(1) n_best.out.test.vi 			# chua 1 best hypothesis
+(2) n_best.out.test.vi.nbest 	# chua n lan hypotheses
+
+Ket qua n-best: 
+<tap tin : test.en>
+﻿z a n z i b a r
+s h a k h m a t o v
+
+<tap tin : test.vi>  # reference , ket qua mong doi
+gi â n gi b a
+s a kh ơ m a t ố p
+
+
+<tap tin : n_best.out.test.vi.nbest>
+0 ||| gi â n gi b a ||| 0.21515892
+0 ||| b â n gi b a ||| 1.9786643
+0 ||| gi â n gi b á c ||| 4.162598
+0 ||| c â n gi b a ||| 4.9746995
+0 ||| d â n gi b a ||| 5.3402715
+0 ||| gi â n d i b a ||| 5.564783
+1 ||| s ắ c m a t ố p ||| 0.60867953
+1 ||| s ắ c g a t ố p ||| 1.5667101
+1 ||| s á c m a t ố p ||| 2.0476768
+1 ||| s á t m a t ố p ||| 2.6587496
+1 ||| s á t g a t ố p ||| 5.366952
+1 ||| s ắ c g ờ m a t ố p ||| 5.723984
+
+Cau lenh : # tach values tu n-best list output
+python 0_tien_xu_ly_monocorpus_translit_n_best_nmt_keras.py
+
+Buoc 4 - wrapper src trg thanh tap tin XML :
+>> Su dung scripts trong thu muc 
+cf. ~/Documents/Agtarbidir_Finch_RNN_translit/scripts
+
+# lien quan den XMl cho tap tin testing : test.xml
+letan@letan:~/Documents/Agtarbidir_Finch_RNN_translit/scripts$ python wrapper_src_trg.py /home/letan/Documents/Agtarbidir_Finch_RNN_translit/sample-data/g2p_test.en /home/letan/Documents/Agtarbidir_Finch_RNN_translit/sample-data/g2p_test.vi > /home/letan/Documents/Agtarbidir_Finch_RNN_translit/sample-data/g2p_ref.en-vi.xml 2> /home/letan/Documents/Agtarbidir_Finch_RNN_translit/sample-data/g2p_src.en-vi.xml
+
+# lien quan den XMl cho tap tin OUTput : results.xml
+letan@letan:~/Documents/Agtarbidir_Finch_RNN_translit/scripts$ python wrapper_src_trg.py /home/letan/Documents/Agtarbidir_Finch_RNN_translit/sample-data/g2p_test.en /home/letan/Documents/Agtarbidir_Finch_RNN_translit/sample-data/g2p_out.test.vi > /home/letan/Documents/Agtarbidir_Finch_RNN_translit/sample-data/g2p_ref.out.en-vi.xml 2> /home/letan/Documents/Agtarbidir_Finch_RNN_translit/sample-data/g2p_src.out.en-vi.xml
+
+
+===========================================================
+
+Ket qua danh gia theo chuong trinh shared task NEWS 2018 :
+cf. ~/Documents/Agtarbidir_Finch_RNN_translit/scripts
+
+letan@letan:~/Documents/Agtarbidir_Finch_RNN_translit/scripts$ python news_evaluation.py -i /home/letan/Documents/Agtarbidir_Finch_RNN_translit/sample-data/g2p_ref.out.en-vi.xml -t /home/letan/Documents/Agtarbidir_Finch_RNN_translit/sample-data/g2p_ref.en-vi.xml -o eval_details.csv
+ACC:          0.385000
+Mean F-score: 0.843502
+MRR:          0.385000
+MAP_ref:      0.385000
+
+# mo tap tin eval_details.csv de kiem tra cac thong tin theo tung dong du lieu.
+
+
+
+####### ket qua pretrained embeddings source/target ########### DIMANCHE 29 AVRIL 2018
+letan@letan:~/Documents/Agtarbidir_Finch_RNN_translit/scripts$ python news_evaluation.py -i /home/letan/Documents/Agtarbidir_Finch_RNN_translit/sample-data/tan_out_with_emb_ref.en-vi.xml -t /home/letan/Documents/Agtarbidir_Finch_RNN_translit/sample-data/eng_ref.en-vi.xml -o val_details_test_10best.csv
+ACC:          0.332031
+Mean F-score: 0.800087
+MRR:          0.424209
+MAP_ref:      0.332031
+
+
+===========================================================
+# add by Tan, chu nhat, ngay 29 avril 2018
+
+### wrapper cho train, dev, test
+Su dung script : wrapper_src_trg.py
+
+# output like 
+<?xml version = "1.0" encoding = "UTF-8"?>
+<TransliterationCorpus
+CorpusFormat = "UTF-8"
+CorpusID = "[task_id]"
+CorpusSize = "[total_number_of_names_in_file]"
+CorpusType = "[Training|Development]"
+NameSource = "[name_origin]"
+SourceLang = "[source_language]"
+TargetLang = "[target_language]">
+<Name ID="1">
+<SourceName>[source_name_1]</SourceName>
+<TargetName ID="1">[target_name_1_1]</TargetName>
+<TargetName ID="2">[target_name_1_2]</TargetName>
+...
+<TargetName ID="n">[target_name_1_n]</TargetName>
+</Name>
+<Name ID="2">
+<SourceName>[source_name_2]</SourceName>
+<TargetName ID="1">[target_name_2_1]</TargetName>
+<TargetName ID="2">[target_name_2_2]</TargetName>
+...
+<TargetName ID="k">[target_name_2_k]</TargetName>
+</Name>
+...
+<!-- rest of the names to follow -->
+...
+</TransliterationCorpus>
+Figure 1: Example of training and development data format.
+
+
+### wrapper cho results.xml
+Su dung script : wrapper_src_trg_tan.py
+
+# output like
+<?xml version="1.0" encoding="UTF-8"?>
+<TransliterationTaskResults
+SourceLang = "[source_language]"
+TargetLang = "[target_language]"
+GroupID = "[your_institution_name]"
+RunID = "[your_submission_number]"
+RunType = "Standard"
+Comments = "[your_comments_here]"
+TaskID = "[task_id]">
+<Name ID="1">
+<SourceName>[test_name_1]</SourceName>
+<TargetName ID="1">[your_system_result_1_1]</TargetName>
+<TargetName ID="2">[your_system_result_1_2]</TargetName>
+...
+<TargetName ID="10">[your_system_result_1_10]</TargetName>
+</Name>
+<Name ID="2">
+<SourceName>[test_name_2]</SourceName>
+<TargetName ID="1">[your_system_result_2_1]</TargetName>
+<TargetName ID="2">[your_system_result_2_2]</TargetName>
+...
+<TargetName ID="10">[your_system_result_2_10]</TargetName>
+</Name>
+...
+<!-- All names in test corpus to follow -->
+...
+</TransliterationTaskResults>
+Figure 2: Example of submission result format
